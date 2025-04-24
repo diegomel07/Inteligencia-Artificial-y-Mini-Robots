@@ -13,7 +13,7 @@ Este repositorio contiene los trabajos, proyectos y prácticas desarrolladas a l
 
 ---
 
-## Trabajo 1
+### Trabajo 1
 
 _idk_
 

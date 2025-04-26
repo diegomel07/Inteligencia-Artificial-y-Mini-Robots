@@ -9,14 +9,14 @@ Este repositorio contiene los trabajos, proyectos y prácticas desarrolladas a l
 
 ## Tabla de Contenidos
 
-1. [Trabajo 1 - (Nombre del trabajo)](#trabajo-1)
+1. [Modelo de incendio Forestal Epidémico](#modelo-de-incendio-forestal-epidémico)
 
 ---
 
-### Trabajo 1
+### Modelo de incendio forestal epidémico
 
-_idk_
+Modelo de epidemia que utiliza la analogia de un incendio forestal que se enfoca en una distribucion espacial estática de los organismos y su inﬂuencia en la propagación de una enfermedad infecciosa con un solo evento epidemico.
 
-[Ver en el repositorio](https://github.com/diegomel07/Inteligencia-Artificial-y-Mini-Robots)
+[Ver en el repositorio](https://github.com/diegomel07/Inteligencia-Artificial-y-Mini-Robots/blob/main/Trabajos/Epidemic_forest_fire_model.ipynb)
 
 ---

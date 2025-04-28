@@ -10,6 +10,7 @@ Este repositorio contiene los trabajos, proyectos y prácticas desarrolladas a l
 ## Tabla de Contenidos
 
 1. [Modelo de incendio Forestal Epidémico](#modelo-de-incendio-forestal-epidémico)
+2. [Gráfico Voronoi para una ciudad y sus droguerias](#voronoi_densidad_ciudad_pynb.ipynb)
 
 ---
 

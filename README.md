@@ -11,8 +11,9 @@ Este repositorio contiene los trabajos, proyectos y prácticas desarrolladas a l
 
 1. [Modelo de incendio Forestal Epidémico](#modelo-de-incendio-forestal-epidémico)
 2. [Gráfico Voronoi para una ciudad y sus droguerias](#gráfico-voronoi-para-una-ciudad-y-sus-droguerias)
-3. [Algoritmo Genetico para la Reproducción de Imágenes](#algoritmo-genetico-para-la-reproducción-de-imágenes)
-4. [Algoritmo Genetico para la Reproducción de Conversaciones](#algoritmo-genetico-para-la-reproducción-de-conversaciones)
+3. [Algoritmo Genetico para la Maximización de una Función](https://github.com/diegomel07/Inteligencia-Artificial-y-Mini-Robots/blob/main/Trabajos/ag_maximizador_fx.ipynb)
+4. [Algoritmo Genetico para la Reproducción de Imágenes](#algoritmo-genetico-para-la-reproducción-de-imágenes)
+5. [Algoritmo Genetico para la Reproducción de Conversaciones](#algoritmo-genetico-para-la-reproducción-de-conversaciones)
 
 ---
 

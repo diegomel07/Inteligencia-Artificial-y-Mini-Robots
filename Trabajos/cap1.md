@@ -15,3 +15,21 @@ En resumen, la IA busca que las máquinas "piensen" o actúen de forma inteligen
 
 ### Nuestra Definición
 Sistemas que tienen la capacidad de aprender y generar soluciones a problemas sin seguir los paradigmas clasicos de la computación.
+
+### Planes Gubernamentales con respecto a la IA
+
+Durante la 1ª Cumbre Nacional de Inteligencia Artificial organizada por el MinTIC, Alexander López (Director del DNP) presentó el borrador del CONPES sobre la nueva Política Nacional de IA.
+
+Se propone un plan de implementación para el periodo 2024-2030 basado en seis objetivos clave:
+
+ - Gobernanza y ética en sistemas de IA.
+
+ - Infraestructura y datos para apoyar el desarrollo de IA.
+
+ - Investigación e innovación para generar conocimiento y beneficios.
+
+ - Desarrollo de talento y capacidades humanas en IA.
+
+ - Identificación y mitigación de riesgos sociales y éticos.
+
+ - Adopción de IA en entidades públicas, privadas y territorios.

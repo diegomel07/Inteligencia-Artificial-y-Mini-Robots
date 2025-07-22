@@ -1,0 +1,1870 @@
+
+SISTEMA DE INFORMACIÓN NORMATIVA, JURISPRUDENCIAL Y DE CONCEPTOS
+"RÉGIMEN LEGAL"
+ 
+
+    Fecha de expedición:  18/04/2013
+    Fecha de entrada en vigencia:  18/04/2013
+    Mapa del Documento
+
+
+
+ACUERDO 2 DE 2013
+
+(Acta No. 6 del 18 de abril)
+
+"Por el cual se modifica el plan de estudios del programa curricular de Ingeniería Química de la Facultad de Ingeniería de la Universidad Nacional de Colombia, Sede Bogotá, y se deroga la Resolución 146 del 13 de mayo de 2010 del Consejo de Facultad"
+
+EL CONSEJO DE LA FACULTAD DE INGENIERÍA
+
+En uso de sus atribuciones estatutarias y
+
+CONSIDERANDO
+
+Que el plan de estudios del programa curricular de Ingeniería Química de la Facultad de Ingeniería de la Sede Bogotá, se rige por el Acuerdo 041 del 29 de mayo de 2009, Acta 4, del Consejo Académico y la Resolución 146 del 13 de mayo de 2010 del Consejo de Facultad.
+
+Que los ciento ochenta (180) créditos exigidos del plan de estudios del programa curricular de Ingeniería Química de la Facultad de Ingeniería de la Sede Bogotá, están distribuidos así:
+
+a) Componente de Fundamentación: Sesenta y nueve (69) créditos exigidos, de los cuales el estudiante deberá aprobar sesenta y tres (63) créditos correspondientes a asignaturas obligatorias y seis (6) créditos correspondientes a asignaturas optativas.
+
+b) Componente de Formación Disciplinar o Profesional: Setenta y cinco (75) créditos exigidos, de los cuales el estudiante deberá aprobar sesenta y seis (66) créditos correspondientes a asignaturas obligatorias y nueve (9) créditos correspondientes a asignaturas optativas.
+
+c) Componente de Libre Elección: Treinta y seis (36) créditos exigidos, que corresponden al 20% del total de créditos del plan de estudios.
+
+Que el programa curricular de Ingeniería Química de la Facultad de Ingeniería de la Universidad Nacional de Colombia, Sede Bogotá, recibió acreditación nacional e internacional de alta calidad por un periodo de ocho años según Resolución 9274 del 18 de octubre de 2011 del Ministerio de Educación Nacional y por la Red Iberoamericana para la Acreditación de la Calidad de la Educación Superior RIACES.
+
+Que como parte del plan de mejoramiento realizado en el proceso de autoevaluación del programa e incluido en la documentación de acreditación, se realizó un proceso de evaluación de la reforma de 2009 sobre el programa curricular de Ingeniería Química de la Facultad de Ingeniería de la Universidad Nacional de Colombia, Sede Bogotá.
+
+Que el Consejo de la Facultad de Ingeniería de la Universidad Nacional de Colombia, Sede Bogotá en sesión del 18 de abril de 2013, acta 06, estudió la propuesta de modificación de requisitos de algunas asignaturas del plan de estudios y la inclusión de asignaturas optativas, presentada por el Comité Asesor del programa de Ingeniería Química de la Facultad, y decidió avalarla.
+
+Que la propuesta de modificación del programa curricular de Ingeniería Química de la Facultad de Ingeniería de la Universidad Nacional de Colombia, Sede Bogotá, fue avalada por la Dirección Académica de la Sede.
+
+Que en mérito de lo anterior,
+
+ACUERDA
+
+ARTÍCULO  1.Texto original subrayado fue modificado por Art. 1, Acuerdo CF Ingeniería 016 de 2013. Modificar el plan de estudios del programa curricular de Ingeniería Química de la Facultad de Ingeniería de la Universidad Nacional de Colombia, Sede Bogotá, el cual quedará así:
+
+a) Componente de Fundamentación
+
+AGRUPACIÓN: MATEMÁTICAS, PROBABILIDAD Y ESTADÍSTICA
+
+CÓDIGO
+	
+
+NOMBRE DE LA ASIGNATURA
+	
+
+CRÉDITOS
+	
+
+OBLIGATORIA
+	
+
+ASIGNATURA PRERREQUISITO/ CORREQUISITO
+
+NOMBRE
+	
+
+REQUISITOS
+
+1000004
+	
+
+Cálculo diferencial
+	
+
+4
+	
+
+SI
+	
+
+ Matemáticas básicas
+	
+
+Prerrequisito 
+
+1000005
+	
+
+Cálculo integral
+	
+
+4
+	
+
+SI
+	
+
+Cálculo diferencial
+	
+
+Prerrequisito
+
+1000006
+	
+
+Cálculo en varias variables
+	
+
+4
+	
+
+SI
+	
+
+Cálculo integral
+	
+
+Prerrequisito
+
+Álgebra lineal
+	
+
+Prerrequisito
+
+1000007
+	
+
+Ecuaciones diferenciales
+	
+
+4
+	
+
+SI
+	
+
+Cálculo integral
+	
+
+Prerrequisito
+
+Álgebra lineal
+	
+
+Prerrequisito
+
+1000013
+	
+
+Probabilidad y Estadística fundamental
+	
+
+3
+	
+
+SI
+	
+
+Cálculo diferencial
+	
+
+Prerrequisito
+
+1000003
+	
+
+Álgebra lineal
+	
+
+4
+	
+
+SI
+	
+
+Cálculo diferencial
+	
+
+Prerrequisito
+
+Créditos exigidos en Matemáticas, Probabilidad y Estadística: veintitrés (23)
+
+AGRUPACIÓN: QUÍMICA Y BIOLOGÍA
+
+CÓDIGO
+	
+
+NOMBRE DE LA ASIGNATURA
+	
+
+CRÉDITOS
+	
+
+OBLIGATORIA
+	
+
+ASIGNATURA PRERREQUISITO/ CORREQUISITO
+
+NOMBRE
+	
+
+REQUISITOS
+
+1000025
+	
+
+Laboratorio técnicas básicas en química
+	
+
+3
+	
+
+SI
+	
+
+-
+	
+
+- 
+
+1000024
+	
+
+Principios de química
+	
+
+3
+	
+
+SI
+	
+
+ -
+	
+
+ -
+
+1000026
+	
+
+Principios de análisis químico
+	
+
+3
+	
+
+SI
+	
+
+Principios de química
+	
+
+Prerrequisito
+
+1000027
+	
+
+Laboratorio principios de análisis químico
+	
+
+3
+	
+
+SI
+	
+
+Principios de química
+	
+
+Prerrequisito
+
+1000028
+	
+
+Principios de química inorgánica
+	
+
+3
+	
+
+SI
+	
+
+Principios de química
+	
+
+Prerrequisito
+
+1000030
+	
+
+Principios de química orgánica
+	
+
+3
+	
+
+SI
+	
+
+Principios de química
+	
+
+Prerrequisito
+
+1000010
+	
+
+Laboratorio principios de química orgánica
+	
+
+2
+	
+
+SI
+	
+
+Principios de química
+	
+
+Prerrequisito
+
+1000025
+	
+
+Biología molecular y celular
+	
+
+3
+	
+
+SI
+	
+
+ -
+	
+
+- 
+
+Créditos exigidos en Química y Biología: veintitrés (23)
+
+AGRUPACIÓN: FÍSICA
+
+CÓDIGO
+	
+
+NOMBRE DE LA ASIGNATURA
+	
+
+CRÉDITOS
+	
+
+OBLIGATORIA
+	
+
+ASIGNATURA PRERREQUISITO/ CORREQUISITO
+
+NOMBRE
+	
+
+REQUISITOS
+
+1000019
+	
+
+Fundamentos de mecánica
+	
+
+4
+	
+
+SI
+	
+
+Cálculo diferencial
+	
+
+Prerrequisito
+
+1000017
+	
+
+Fundamentos de electricidad y magnetismo
+	
+
+4
+	
+
+SI
+	
+
+Cálculo integral
+	
+
+Prerrequisito
+
+Fundamentos de mecánica
+	
+
+Prerrequisito
+
+Créditos exigidos en Física: ocho (8)
+
+AGRUPACIÓN: CIENCIAS ECONÓMICAS Y ADMINISTRATIVAS
+
+CÓDIGO
+	
+
+NOMBRE DE LA ASIGNATURA
+	
+
+CRÉDITOS
+	
+
+OBLIGATORIA
+	
+
+ASIGNATURA PRERREQUISITO/ CORREQUISITO
+
+NOMBRE
+	
+
+REQUISITOS
+
+2015703
+	
+
+Ingeniería económica
+	
+
+3
+	
+
+SI
+	
+
+Cálculo integral
+	
+
+Prerrequisito 
+
+2015702
+	
+
+Gerencia y gestión de proyectos
+	
+
+3
+	
+
+SI
+	
+
+Ingeniería económica
+	
+
+Prerrequisito
+
+2015698
+	
+
+Administración de empresas
+	
+
+3
+	
+
+NO
+	
+
+Ingeniería económica
+	
+
+Prerrequisito
+
+2016609
+	
+
+Seguridad industrial
+	
+
+3
+	
+
+NO
+	
+
+Fundamentos de electricidad y magnetismo
+	
+
+Prerrequisito
+
+2016741
+	
+
+Finanzas
+	
+
+3
+	
+
+NO
+	
+
+ -
+	
+
+ -
+
+2016610
+	
+
+Sistemas de costos
+	
+
+4
+	
+
+NO
+	
+
+- 
+	
+
+ -
+
+2015699
+	
+
+Administración de mercados
+	
+
+3
+	
+
+NO
+	
+
+ -
+	
+
+ -
+
+2016592
+	
+
+Economía general
+	
+
+3
+	
+
+NO
+	
+
+-
+	
+
+-
+
+2015695
+	
+
+Diseño, gestión y evaluación de proyectos
+	
+
+3
+	
+
+NO
+	
+
+-
+	
+
+-
+
+2015705
+	
+
+Mercados I
+	
+
+4
+	
+
+NO
+	
+
+-
+	
+
+-
+
+2016056
+	
+
+Teoría de la decisión
+	
+
+4
+	
+
+NO
+	
+
+-
+	
+
+-
+
+2015700
+	
+
+Fundamentos de contabilidad financiera
+	
+
+3
+	
+
+NO
+	
+
+-
+	
+
+-
+
+2015704
+	
+
+Mercadeo internacional
+	
+
+3
+	
+
+NO
+	
+
+-
+	
+
+-
+
+2015694
+	
+
+Derecho laboral
+	
+
+3
+	
+
+NO
+	
+
+-
+	
+
+-
+
+Créditos exigidos en Ciencias Económicas y Administrativas: nueve (9)
+
+AGRUPACIÓN: HERRAMIENTAS DE LA INGENIERÍA
+
+CÓDIGO
+	
+
+NOMBRE DE LA ASIGNATURA
+	
+
+CRÉDITOS
+	
+
+OBLIGATORIA
+	
+
+ASIGNATURA PRERREQUISITO/ CORREQUISITO
+
+NOMBRE
+	
+
+REQUISITOS
+
+2015970
+	
+
+Métodos numéricos
+	
+
+3
+	
+
+SI
+	
+
+Ecuaciones diferenciales
+	
+
+Prerrequisito
+
+2015734
+	
+
+Programación de computadores
+	
+
+3
+	
+
+NO
+	
+
+-
+	
+
+ -
+
+2015709
+	
+
+Comunicación oral y escrita
+	
+
+3
+	
+
+NO
+	
+
+-
+	
+
+ -
+
+2015711
+	
+
+Dibujo básico
+	
+
+3
+	
+
+NO
+	
+
+-
+	
+
+ -
+
+Créditos exigidos en Herramientas de la Ingeniería: seis (6)
+
+b) Componente de Formación Profesional
+
+AGRUPACIÓN: TERMODINÁMICA
+
+CÓDIGO
+	
+
+NOMBRE DE LA ASIGNATURA
+	
+
+CRÉDITOS
+	
+
+OBLIGATORIA
+	
+
+ASIGNATURA PRERREQUISITO/ CORREQUISITO
+
+NOMBRE
+	
+
+REQUISITOS
+
+2015741
+	
+
+Termodinámica
+	
+
+3
+	
+
+SI
+	
+
+Cálculo diferencial
+	
+
+Prerrequisito
+
+Balance de materia
+	
+
+Prerrequisito
+
+2015740
+	
+
+Termodinámica química
+	
+
+3
+	
+
+SI
+	
+
+Termodinámica
+	
+
+Prerrequisito
+
+Cálculo en varias variables
+	
+
+Prerrequisito
+
+2015735
+	
+
+Taller 1
+	
+
+1
+	
+
+SI
+	
+
+Termodinámica
+	
+
+Prerrequisito
+
+Cálculo en varias variables
+	
+
+Prerrequisito
+
+2015707
+	
+
+Balance de energía y equilibrio químico
+	
+
+3
+	
+
+SI
+	
+
+Termodinámica química
+	
+
+Prerrequisito
+
+2015739
+	
+
+Termodinámica molecular
+	
+
+3
+	
+
+NO
+	
+
+Termodinámica química
+	
+
+Prerrequisito
+
+2015738
+	
+
+Termodinámica de ciclos
+	
+
+3
+	
+
+NO
+	
+
+Balance de energía y equilibrio químico
+	
+
+Prerrequisito
+
+1000038
+	
+
+Fisicoquímica II
+	
+
+3
+	
+
+NO
+	
+
+Balance de energía y equilibrio químico
+	
+
+Prerrequisito
+
+Créditos exigidos en Termodinámica: trece (13)
+
+AGRUPACIÓN: OPERACIONES UNITARIAS
+
+CÓDIGO
+	
+
+NOMBRE DE LA ASIGNATURA
+	
+
+CRÉDITOS
+	
+
+OBLIGATORIA
+	
+
+ASIGNATURA PRERREQUISITO/ CORREQUISITO
+
+NOMBRE
+	
+
+REQUISITOS
+
+2015708
+	
+
+Balance de materia
+	
+
+3
+	
+
+SI
+	
+
+-
+	
+
+-
+
+2015714
+	
+
+Fluidos
+	
+
+3
+	
+
+SI
+	
+
+Fundamentos de mecánica
+	
+
+Prerrequisito
+
+Termodinámica
+	
+
+Prerrequisito
+
+2015726
+	
+
+Manejo de sólidos
+	
+
+3
+	
+
+SI
+	
+
+Fluidos
+	
+
+Prerrequisito
+
+2015743
+	
+
+Transferencia de calor
+	
+
+4
+	
+
+SI
+	
+
+Ecuaciones diferenciales
+	
+
+Prerrequisito
+
+Termodinámica
+	
+
+Prerrequisito
+
+2015744
+	
+
+Transferencia de masa
+	
+
+3
+	
+
+SI
+	
+
+Ecuaciones diferenciales
+	
+
+Prerrequisito
+
+2015736
+	
+
+Taller 2
+	
+
+1
+	
+
+SI
+	
+
+Ecuaciones diferenciales
+	
+
+Prerrequisito
+
+2015731
+	
+
+Operaciones de separación
+	
+
+3
+	
+
+SI
+	
+
+Transferencia de masa
+	
+
+Prerrequisito
+
+Balance de energía y equilibrio químico
+	
+
+Prerrequisito
+
+Créditos exigidos en Operaciones Unitarias: veinte (20)
+
+AGRUPACIÓN: PROCESOS QUÍMICOS Y BIOQUÍMICOS
+
+CÓDIGO
+	
+
+NOMBRE DE LA ASIGNATURA
+	
+
+CRÉDITOS
+	
+
+OBLIGATORIA
+	
+
+ASIGNATURA PRERREQUISITO/ CORREQUISITO
+
+NOMBRE
+	
+
+REQUISITOS
+
+Balance de energía y equilibrio químico
+	
+
+Prerrequisito
+
+2015713
+	
+
+Diseño de procesos químicos y bioquímicos
+	
+
+3
+	
+
+SI
+	
+
+Balance de energía y equilibrio
+	
+
+Prerrequisito
+
+2015710
+	
+
+Control de procesos
+	
+
+3
+	
+
+SI
+	
+
+Laboratorio de Operaciones de separación, reacción y control
+	
+
+Correquisito
+
+Métodos Numéricos
+	
+
+Prerrequisito
+
+Ingeniería de reacciones químicas
+	
+
+Prerrequisito
+
+2015712
+	
+
+Diseño de plantas y equipos
+	
+
+3
+	
+
+SI
+	
+
+Operaciones de separación
+	
+
+Prerrequisito
+
+Diseño de procesos químicos y bioquímicos
+	
+
+Prerrequisito
+
+2015715
+	
+
+Ingeniería de procesos
+	
+
+3
+	
+
+SI
+	
+
+Diseño de procesos químicos y bioquímicos
+	
+
+Prerrequisito
+
+2015729
+	
+
+Modelamiento y simulación de procesos químicos
+	
+
+3
+	
+
+NO
+	
+
+Transferencia de masa
+	
+
+Prerrequisito
+
+Ingeniería de reacciones químicas
+	
+
+Prerrequisito
+
+2015728
+	
+
+Modelamiento y simulación de procesos bioquímicos
+	
+
+3
+	
+
+NO
+	
+
+Transferencia de masa
+	
+
+Prerrequisito
+
+Ingeniería de reacciones químicas
+	
+
+Prerrequisito
+
+Créditos exigidos en Procesos Químicos y Bioquímicos: diez y ocho (18)
+
+AGRUPACIÓN: INVESTIGACIÓN E INNOVACIÓN
+
+CÓDIGO
+	
+
+NOMBRE DE LA ASIGNATURA
+	
+
+CRÉDITOS
+	
+
+OBLIGATORIA
+	
+
+ASIGNATURA PRERREQUISITO/ CORREQUISITO
+
+NOMBRE
+	
+
+REQUISITOS
+
+2015721
+	
+
+Laboratorio de Propiedades termodinámicas y de transporte
+	
+
+3
+	
+
+SI
+	
+
+Balance de energía y equilibrio químico
+	
+
+Prerrequisito
+
+2015719
+	
+
+Laboratorio de Fluidos, sólidos y transferencia de calor
+	
+
+3
+	
+
+SI
+	
+
+Fluidos
+	
+
+Prerrequisito
+
+Manejo de sólidos
+	
+
+Prerrequisito
+
+Transferencia de calor
+	
+
+Prerrequisito
+
+2015720
+	
+
+Laboratorio de Operaciones de separación, reacción y control
+	
+
+3
+	
+
+SI
+	
+
+Operaciones de separación
+	
+
+Prerrequisito
+
+2015737
+	
+
+Taller de proyectos interdisciplinarios
+	
+
+3
+	
+
+SI
+	
+
+70% del total de créditos exigidos en el componente disciplinar o profesional (53 créditos)
+	
+
+Prerrequisito
+
+2015289
+	
+
+Trabajo de Grado
+	
+
+6
+	
+
+NO
+	
+
+80% del total de créditos exigidos en el componente disciplinar o profesional (60 créditos)
+	
+
+Prerrequisito
+
+2015290
+	
+
+Trabajo de Grado - Asignaturas de Posgrado
+	
+
+6
+	
+
+NO
+	
+
+80% del total de créditos exigidos en el componente disciplinar o profesional (60 créditos)
+	
+
+Prerrequisito
+
+Créditos exigidos en Investigación e Innovación: dieciocho (18)
+
+AGRUPACIÓN: MATERIALES
+
+CÓDIGO
+	
+
+NOMBRE DE LA ASIGNATURA
+	
+
+CRÉDITOS
+	
+
+OBLIGATORIA
+	
+
+ASIGNATURA PRERREQUISITO/ CORREQUISITO
+
+NOMBRE
+	
+
+REQUISITOS
+
+2015717
+	
+
+Introducción a la Ingeniería de materiales
+	
+
+3
+	
+
+NO
+	
+
+Termodinámica química
+	
+
+Prerrequisito
+
+Haber aprobado 108 créditos del total de créditos exigidos en el plan de estudios
+	
+
+Prerrequisito
+
+2020326
+	
+
+Nuevos tópicos en Ingeniería Química
+	
+
+3
+	
+
+NO
+	
+
+Haber aprobado 108 créditos del total de créditos exigidos en el plan de estudios
+	
+
+Prerrequisito
+
+1000040
+	
+
+Introducción a la ciencia de materiales
+	
+
+3
+	
+
+NO
+	
+
+ Haber aprobado 108 créditos del total de créditos exigidos en el plan de estudios
+	
+
+Prerrequisito
+
+2015727
+	
+
+Materiales
+	
+
+3
+	
+
+NO
+	
+
+Termodinámica química
+	
+
+Prerrequisito
+
+Haber aprobado 108 créditos del total de créditos exigidos en el plan de estudios
+	
+
+Prerrequisito
+
+2024929
+	
+
+Introducción a la Ingeniería de materiales Poliméricos
+	
+
+3
+	
+
+NO
+	
+
+Haber aprobado 108 créditos del total de créditos exigidos en el plan de estudios
+	
+
+Prerrequisito
+
+2017348
+	
+
+Tecnología de materiales
+	
+
+3
+	
+
+NO
+	
+
+Haber aprobado 108 créditos del total de créditos exigidos en el plan de estudios
+	
+
+Prerrequisito
+
+2017256
+	
+
+Ciencia e Ingeniería de materiales
+	
+
+3
+	
+
+NO
+	
+
+Haber aprobado 108 créditos del total de créditos exigidos en el plan de estudios
+	
+
+Prerrequisito
+
+2015598
+	
+
+Química de sólidos
+	
+
+3
+	
+
+NO
+	
+
+Haber aprobado 108 créditos del total de créditos exigidos en el plan de estudios
+	
+
+Prerrequisito
+
+Créditos exigidos en Materiales: tres (3)
+
+AGRUPACIÓN: CONTEXTO PROFESIONAL
+
+CÓDIGO
+	
+
+NOMBRE DE LA ASIGNATURA
+	
+
+CRÉDITOS
+	
+
+OBLIGATORIA
+	
+
+ASIGNATURA PRERREQUISITO/ CORREQUISITO
+
+NOMBRE
+	
+
+REQUISITOS
+
+2015718
+	
+
+Introducción a la Ingeniería Química
+	
+
+3
+	
+
+SI
+	
+
+-
+	
+
+-
+
+Créditos exigidos en Contexto Profesional: tres (3)
+
+c) Componente de Libre elección
+
+AGRUPACIÓN: PROFUNDIZACIÓN
+
+CÓDIGO
+	
+
+NOMBRE DE LA ASIGNATURA
+	
+
+CRÉDITOS
+	
+
+OBLIGATORIA
+	
+
+ASIGNATURA PRERREQUISITO/ CORREQUISITO
+
+NOMBRE
+	
+
+REQUISITOS
+
+2016762
+	
+
+Práctica estudiantil I
+	
+
+3
+	
+
+NO
+	
+
+Haber aprobado 70% del total de créditos exigidos en el plan de estudios
+	
+
+Prerrequisito
+
+2016763
+	
+
+Práctica estudiantil II
+	
+
+6
+	
+
+NO
+	
+
+Haber aprobado 70% del total de créditos exigidos en el plan de estudios
+	
+
+Prerrequisito
+
+2016764
+	
+
+Práctica estudiantil III
+	
+
+9
+	
+
+NO
+	
+
+Haber aprobado 70% del total de créditos exigidos en el plan de estudios
+	
+
+Prerrequisito
+
+2025725
+	
+
+Práctica Colombia I
+	
+
+3
+	
+
+NO
+	
+
+Haber aprobado 70% del total de créditos exigidos en el plan de estudios
+	
+
+Prerrequisito
+
+2025726
+	
+
+Práctica Colombia II
+	
+
+6
+	
+
+NO
+	
+
+Haber aprobado 70% del total de créditos exigidos en el plan de estudios
+	
+
+Prerrequisito
+
+2025727
+	
+
+Práctica Colombia III
+	
+
+9
+	
+
+NO
+	
+
+Haber aprobado 70% del total de créditos exigidos en el plan de estudios
+	
+
+Prerrequisito
+
+2024647
+	
+
+Introducción a la ingeniería bioquímica
+	
+
+3
+	
+
+NO
+	
+
+Haber aprobado 70% del total de créditos exigidos en el plan de estudios
+	
+
+Prerrequisito
+
+2024648
+	
+
+Operaciones de control y purificación de bioprocesos
+	
+
+3
+	
+
+NO
+	
+
+Haber aprobado 70% del total de créditos exigidos en el plan de estudios
+	
+
+Prerrequisito
+
+2024649
+	
+
+Microbiología y bioquímica de bioprocesos
+	
+
+3
+	
+
+NO
+	
+
+Haber aprobado 70% del total de créditos exigidos en el plan de estudios
+	
+
+Prerrequisito
+
+2024650
+	
+
+Petroquímica y refinación
+	
+
+3
+	
+
+NO
+	
+
+Haber aprobado 70% del total de créditos exigidos en el plan de estudios
+	
+
+Prerrequisito
+
+2023122
+	
+
+Ingeniería de petróleo y gas
+	
+
+4
+	
+
+NO
+	
+
+Haber aprobado 70% del total de créditos exigidos en el plan de estudios
+	
+
+Prerrequisito
+
+2024651
+	
+
+Procesos catalíticos orgánicos
+	
+
+3
+	
+
+NO
+	
+
+Haber aprobado 70% del total de créditos exigidos en el plan de estudios
+	
+
+Prerrequisito
+
+2023549
+	
+
+Principios de catálisis heterogénea
+	
+
+4
+	
+
+NO
+	
+
+Haber aprobado 70% del total de créditos exigidos en el plan de estudios
+	
+
+Prerrequisito
+
+2020329
+	
+
+Procesos de polimerización
+	
+
+4
+	
+
+NO
+	
+
+Haber aprobado 70% del total de créditos exigidos en el plan de estudios
+	
+
+Prerrequisito
+
+2024652
+	
+
+Transformación de polímeros
+	
+
+3
+	
+
+NO
+	
+
+Haber aprobado 70% del total de créditos exigidos en el plan de estudios
+	
+
+Prerrequisito
+
+Créditos exigidos en Profundización: cero (0)
+
+ARTÍCULO 2. La oferta de asignaturas optativas será revisada anualmente y podrá ser modificada por el Consejo de Facultad, previa solicitud del Comité Asesor del Programa, teniendo en cuenta en dichas modificaciones el mejoramiento en el nivel de flexibilidad del plan de estudios y la articulación con otros planes de estudio de la Universidad.
+
+PARÁGRAFO 1. Las modificaciones a que hace referencia este artículo serán formalizadas mediante Acuerdo del Consejo de Facultad, previa solicitud del Comité Asesor del programa curricular, con el acompañamiento de la Dirección Nacional de Programas de Pregrado y la revisión de la Dirección Académica de la Sede Bogotá.
+
+ARTÍCULO  3. El presente Acuerdo rige a partir de su publicación en el Sistema de Información Normativa, Jurisprudencial y de conceptos-Régimen Legal de la Universidad Nacional de Colombia y deroga todas aquellas normas que le sean contrarias, especialmente la Resolución 146 del 13 de mayo de 2010 del Consejo de Facultad de Ingeniería de la Sede Bogotá.
+
+PUBLÍQUESE, COMUNÍQUESE Y CÚMPLASE
+
+Dado en la ciudad de Bogotá, D.C., a los dieciocho (18) días del mes de abril de 2013
+
+JOSE ISMAEL PEÑA REYES
+
+Presidente
+
+LUIS FRANCISCO BOADA ESLAVA
+
+Secretario
+

@@ -1,0 +1,417 @@
+25/6/2021 Sección Contenido - Universidad Nacional de Colombia
+www.legal.unal.edu.co/rlunal/home/doc.jsp?d_i=86674 1/10
+SISTEMA DE INFORMACIÓN NORMATIVA,
+JURISPRUDENCIAL Y DE CONCEPTOS
+"RÉGIMEN LEGAL"
+FECHA DE EXPEDICIÓN: 15/04/2016
+FECHA DE ENTRADA EN VIGENCIA: 28/04/2016
+ACUERDO 30 DE 2016
+(Acta No. 07, abril 14)
+"Por el cual se modifica el Acuerdo 15 de 2013 del Consejo de la Facultad de Ingeniería de la Sede Bogotá de
+la Universidad Nacional de Colombia que define el plan de estudios de Ingeniería Agrícola en la Universidad
+Nacional de Colombia Sede Bogotá "
+EL CONSEJO DE LA FACULTAD DE INGENIERÍA
+En uso de sus atribuciones legales establecidas en el Artículo 6 del Acuerdo 38 de 2009 del Consejo
+Académico
+CONSIDERANDO
+1. Que el Consejo Académico, mediante Acuerdo 038 del 29 de mayo de 2009, Acta No. 04, aprueba la modificación de
+la estructura del plan de estudios del Programa Curricular de Ingeniería Agrícola de la Facultad de Ingeniería de la
+Sede Bogotá de la Universidad Nacional de Colombia para ajustarse al Acuerdo 033 de 2007.
+2. Que el Artículo 3 del Acuerdo 038 de 2009 del Consejo Académico, establece que el Plan de Estudios tendrá un total
+de 180 créditos, y en el Artículo 4 se distribuyeron de la siguiente manera:
+a. Componente de fundamentación: cincuenta y nueve (59) créditos exigidos, de los cuales el estudiante deberá
+aprobar cuarenta y nueve (49) créditos correspondientes a asignaturas obligatorias y diez (10) créditos
+correspondientes a asignaturas optativas.
+b. Componente disciplinar o profesional: ochenta y cinco (85) créditos exigidos, de los cuales el estudiante deberá
+aprobar ochenta y dos (82) créditos correspondientes a asignaturas obligatorias y tres (3) créditos correspondientes a
+asignaturas optativas.
+c. Componente de libre elección: Treinta y seis (36) créditos exigidos, que corresponden al 20% del total de créditos
+del plan de estudios.
+3. Que el Artículo 6 del Acuerdo 038 de 2009 del Consejo Académico, dispone que el Consejo de Facultad de
+Ingeniería, a través de Acuerdo, listará las asignaturas contenidas en cada una de las agrupaciones temáticas de los
+Componentes de Fundamentación y Formación Disciplinar o Profesional, especificando códigos, créditos y requisitos.
+4. Que el Consejo de la Facultad de Ingeniería en sesión del 14 de abril de 2016, Acta 7, acoge la propuesta del
+Comité Asesor del programa de modificar el Acuerdo 15 de 2013 de Consejo de Facultad para:
+1) Corregir el código de la asignatura Modelos y Simulación de la agrupación Herramientas informáticas y métodos
+numéricos:
+CÓDIGO NOMBRE DE LA
+ASIGNATURA CRÉDITOS OBLIGATORIA
+ASIGNATURAS REQUISITO
+NOMBRE TIPO
+2025970 Modelos y Simulación 3 NO Ecuaciones Diferenciales Prerrequisito
+25/6/2021 Sección Contenido - Universidad Nacional de Colombia
+www.legal.unal.edu.co/rlunal/home/doc.jsp?d_i=86674 2/10
+2) Corregir el número de créditos a las siguientes asignaturas optativas de la agrupación Ciencias económicas y
+administrativas, las cuales estaban relacionadas con tres (3) créditos:
+CÓDIGO NOMBRE DE LA
+ASIGNATURA CRÉDITOS OBLIGATORIA
+ASIGNATURAS REQUISITO
+NOMBRE TIPO
+2016046 Mercados I 4 NO Gerencia y Gestión de
+Proyectos Prerrequisito
+2016056 Teoría De La Decisión 4 NO Gerencia y Gestión de
+Proyectos Prerrequisito
+2016610 Sistemas De Costos 4 NO Gerencia y Gestión de
+Proyectos Prerrequisito
+3) Modificar el requisito de las siguientes asignaturas de la agrupación asignaturas sin agrupación:
+CÓDIGO NOMBRE DE LA
+ASIGNATURA CRÉDITOS OBLIGATORIA
+ASIGNATURAS REQUISITO
+NOMBRE TIPO
+2015969 Mecánica de Suelos 3 SI
+Mecánica de Sólidos
+Suelos Agrícolas
+Prerrequisito
+2016630 Electrotecnia 3 SI 40 créditos aprobados
+Disciplinares C Prerrequisito
+4) Cambiar de 102 a 108 créditos aprobados el requisito de las siguientes asignaturas de la agrupación profundización
+y retirar de ella la asignatura "Simulación matemática en poscosecha - 2024467":
+CÓDIGO NOMBRE DE LA ASIGNATURA CRÉDITOS OBLIGATORIA
+ASIGNATURAS REQUISITO
+NOMBRE TIPO
+2024029 Administración de maquinaria 3 NO 108 Créditos Aprobados Prerrequisito
+2022920 Aplicación de pesticidas 3 NO 108 Créditos Aprobados Prerrequisito
+2024030 Bombas y estaciones de bombeo 3 NO 108 Créditos Aprobados Prerrequisito
+2015954 Estructuras hidráulicas 3 NO 108 Créditos Aprobados Prerrequisito
+2022894 Diseño básico de estructuras
+metálicas 3 NO 108 Créditos Aprobados Prerrequisito
+2024607 Diseño de implementos de labranza 3 NO 108 Créditos Aprobados Prerrequisito
+2024466 Ingeniería de conservación de agua
+y suelos 3 NO 108 Créditos Aprobados Prerrequisito
+2024612 3 NO 108 Créditos Aprobados Prerrequisito
+25/6/2021 Sección Contenido - Universidad Nacional de Colombia
+www.legal.unal.edu.co/rlunal/home/doc.jsp?d_i=86674 3/10
+Manejo y conservaciones de
+perecederos
+2024611 Máquinas cosechadoras 3 NO 108 Créditos Aprobados Prerrequisito
+2022923 Riego por goteo 3 NO 108 Créditos Aprobados Prerrequisito
+2022913 Riego por superficie 3 NO 108 Créditos Aprobados Prerrequisito
+2024608 Invernaderos 3 NO 108 Créditos Aprobados Prerrequisito
+2025988 Taller de simulación procesos de
+manufactura y sistemas de servicios 3 NO 108 Créditos Aprobados Prerrequisito
+2025987
+Modelos estocásticos para procesos
+de manufactura y sistemas de
+servicios
+3 NO 108 Créditos Aprobados Prerrequisito
+2025971 Optimización 3 NO 108 Créditos Aprobados Prerrequisito
+Que en mérito de lo expuesto,
+RESUELVE
+ARTÍCULO 1. Establecer los créditos, agrupaciones y asignaturas de los componentes del Plan de estudios de
+Ingeniería Agrícola, teniendo en cuenta que todos los prerrequisitos son de matrícula:
+a) Componente de Fundamentación:
+AGRUPACIÓN: Matemáticas, Probabilidad y Estadística
+CÓDIGO NOMBRE DE LA
+ASIGNATURA CRÉDITOS OBLIGATORIA
+ASIGNATURAS REQUISITO
+NOMBRE TIPO
+1000004 Cálculo diferencial 4 SI Matemáticas Básicas Prerrequisito
+1000005 Cálculo integral 4 SI Cálculo diferencial Prerrequisito
+1000003 Álgebra lineal 4 SI Cálculo diferencial Prerrequisito
+1000006 Cálculo en varias variables 4 SI
+Cálculo integral
+Álgebra lineal
+Prerrequisito
+Prerrequisito
+1000007 Ecuaciones diferenciales 4 SI
+Cálculo integral
+Álgebra lineal
+Prerrequisito
+Prerrequisito
+1000013 Probabilidad y estadística
+fundamental 3 SI Cálculo diferencial Prerrequisito
+Créditos exigidos en la agrupación Matemáticas, Probabilidad y Estadística: veintitrés (23)
+AGRUPACIÓN: Física
+CÓDIGO NOMBRE DE LA ASIGNATURA CRÉDITOS OBLIGATORIA ASIGNATURAS REQUISITO
+25/6/2021 Sección Contenido - Universidad Nacional de Colombia
+www.legal.unal.edu.co/rlunal/home/doc.jsp?d_i=86674 4/10
+NOMBRE TIPO
+1000019 Fundamentos de mecánica 4 SI Cálculo diferencial Prerrequisito
+1000017 Fundamentos de electricidad y
+magnetismo 4 NO
+Fundamentos de mecánica
+Cálculo integral
+Prerrequisito
+Prerrequisito
+1000020 Fundamentos de oscilaciones,
+ondas y óptica 4 NO
+Fundamentos de mecánica
+Ecuaciones diferenciales
+Prerrequisito
+Créditos exigidos en la agrupación Física: ocho (8)
+AGRUPACIÓN: Química y Biología
+CÓDIGO NOMBRE DE LA
+ASIGNATURA CRÉDITOS OBLIGATORIA
+ASIGNATURAS REQUISITO
+NOMBRE TIPO
+1000009 Biología general 3 SI
+1000024 Principios de química 3 SI
+2017538 Fisiología vegetal 4 SI Principios de química Prerrequisito
+Créditos exigidos en la agrupación Química y Biología: diez (10)
+AGRUPACIÓN: Expresión Gráfica
+CÓDIGO NOMBRE DE LA
+ASIGNATURA CRÉDITOS OBLIGATORIA
+ASIGNATURAS REQUISITO
+NOMBRE TIPO
+2015711 Dibujo básico 3 SI
+Créditos exigidos en la agrupación Expresión Gráfica: tres (3)
+AGRUPACIÓN: Herramientas Informáticas y métodos numéricos
+CÓDIGO NOMBRE DE LA
+ASIGNATURA CRÉDITOS OBLIGATORIA
+ASIGNATURAS REQUISITO
+NOMBRE TIPO
+2015734 Programación de
+computadores 3 SI
+2016375 Programación orientada a
+objetos 3 NO Programación de computadores Prerrequisito
+2015970 Métodos numéricos 3 NO Ecuaciones diferenciales Prerrequisito
+2017293 Modelación matemática 3 NO Ecuaciones diferenciales Prerrequisito
+2015942 Aplicación de elementos finitos 3 NO Ecuaciones diferenciales Prerrequisito
+2025970 Modelos y simulación 3 NO Ecuaciones diferenciales Prerrequisito
+25/6/2021 Sección Contenido - Universidad Nacional de Colombia
+www.legal.unal.edu.co/rlunal/home/doc.jsp?d_i=86674 5/10
+Créditos exigidos en la agrupación Herramientas informáticas y métodos numéricos: seis (6)
+AGRUPACIÓN: Ciencias Económicas y Administrativas
+CÓDIGO NOMBRE DE LA
+ASIGNATURA CRÉDITOS OBLIGATORIA
+ASIGNATURAS REQUISITO
+NOMBRE TIPO
+2015703 Ingeniería económica 3 SI Cálculo integral Prerrequisito
+2015702 Gerencia y gestión de proyectos 3 SI Ingeniería económica Prerrequisito
+2015698 Administración de empresas 3 NO Gerencia y gestión de proyectos Prerrequisito
+2015699 Administración de mercados 3 NO Gerencia y gestión de proyectos Prerrequisito
+2015694 Derecho laboral 3 NO Gerencia y gestión de proyectos Prerrequisito
+2016592 Economía general 3 NO Gerencia y gestión de proyectos Prerrequisito
+2016741 Finanzas 3 NO Gerencia y gestión de proyectos Prerrequisito
+2016587 Competitividad, productividad y
+benchmarking 3 NO Gerencia y gestión de proyectos Prerrequisito
+2015695 Diseño, gestión y evaluación de
+proyectos 3 NO Gerencia y gestión de proyectos Prerrequisito
+2015700 Fundamentos de contabilidad
+financiera 3 NO Gerencia y gestión de proyectos Prerrequisito
+2015701 Gerencia de recursos humanos 3 NO Gerencia y gestión de proyectos Prerrequisito
+2016597 Gerencia y planeación
+estratégica 3 NO Gerencia y gestión de proyectos Prerrequisito
+2016598 Gestión ambiental empresarial 3 NO Gerencia y gestión de proyectos Prerrequisito
+2016602 Investigación de mercados 3 NO Gerencia y gestión de proyectos Prerrequisito
+2015704 Mercadeo internacional 3 NO Gerencia y gestión de proyectos Prerrequisito
+2016046 Mercados I 4 NO Gerencia y gestión de proyectos Prerrequisito
+2016056 Teoría de la decisión 4 NO Gerencia y gestión de proyectos Prerrequisito
+2016609 Seguridad industrial 3 NO Gerencia y gestión de proyectos Prerrequisito
+2016610 Sistemas de costos 4 NO Gerencia y gestión de proyectos Prerrequisito
+Créditos exigidos en la agrupación Ciencias Económicas y Administrativas: nueve (9)
+b) Componente de Formación Disciplinar o Profesional:
+25/6/2021 Sección Contenido - Universidad Nacional de Colombia
+www.legal.unal.edu.co/rlunal/home/doc.jsp?d_i=86674 6/10
+AGRUPACIÓN: Asignaturas sin agrupación
+CÓDIGO NOMBRE DE LA
+ASIGNATURA CRÉDITOS OBLIGATORIA
+ASIGNATURAS REQUISITO
+NOMBRE TIPO
+2016635 Introducción a la ingeniería
+agrícola 3 SI
+2026134 Estática 3 SI
+Álgebra lineal
+Fundamentos de mecánica
+Prerrequisito
+Prerrequisito
+2015958 Geomática básica 4 SI
+Dibujo básico
+Introducción a la ingeniería agrícola
+Prerrequisito
+Prerrequisito
+2015966 Mecánica de fluidos 4 SI
+Cálculo en varias variables
+Ecuaciones diferenciales
+Estática
+Prerrequisito
+Prerrequisito
+Prerrequisito
+2015968 Mecánica de sólidos 4 SI
+Cálculo en varias variables
+Estática
+Prerrequisito
+Prerrequisito
+2015978 Hidrología 3 SI
+Probabilidad y estadística
+Fundamental
+Mecánica de fluidos
+Prerrequisito
+Prerrequisito
+2016632 Suelos agrícolas 3 SI
+Principios de química
+Biología general
+Prerrequisito
+Prerrequisito
+2015969 Mecánica de suelos 3 SI
+Mecánica de sólidos
+Suelos agrícolas
+Prerrequisito
+2015961 Hidráulica básica 4 SI Mecánica de fluidos Prerrequisito
+2016630 Electrotecnia 3 SI 40 créditos aprobados Disciplinares
+C Prerrequisito
+2015741 Termodinámica 3 SI Cálculo diferencial Prerrequisito
+Créditos exigidos en la agrupación Asignaturas sin agrupación: treinta y siete (37)
+AGRUPACIÓN: Ingeniería de Riego y Drenaje
+CÓDIGO NOMBRE DE LA
+ASIGNATURA CRÉDITOS OBLIGATORIA
+ASIGNATURAS REQUISITO
+NOMBRE TIPO
+2016634 Ingeniería de riegos 3 SI
+Hidráulica básica
+Suelos agrícolas
+Prerrequisito
+Prerrequisito
+2016628 Diseño de sistemas de riego 3 SI Ingeniería de riegos Prerrequisito
+25/6/2021 Sección Contenido - Universidad Nacional de Colombia
+www.legal.unal.edu.co/rlunal/home/doc.jsp?d_i=86674 7/10
+Geomática básica Prerrequisito
+2016629 Drenaje de tierras agrícolas 3 SI
+Ingeniería de riegos
+Hidrología
+Prerrequisito
+Prerrequisito
+Créditos exigidos en la agrupación Ingeniería de Riego y Drenaje: nueve (9)
+AGRUPACIÓN: Automatización y Control
+CÓDIGO NOMBRE DE LA
+ASIGNATURA CRÉDITOS OBLIGATORIA
+ASIGNATURAS REQUISITO
+NOMBRE TIPO
+2016626 Control en biosistemas 3 SI Electrotecnia Prerrequisito
+Créditos exigidos en la agrupación Automatización y Control: tres (3)
+AGRUPACIÓN: Poscosecha de Productos Agropecuarios
+CÓDIGO NOMBRE DE LA
+ASIGNATURA CRÉDITOS OBLIGATORIA
+ASIGNATURAS REQUISITO
+NOMBRE TIPO
+2016643 Transferencia de calor y masa 3 SI Termodinámica Prerrequisito
+2016638 Poscosecha de frutas y
+hortalizas 3 SI
+Transferencia de calor y masa
+Fisiología vegetal
+Prerrequisito
+Prerrequisito
+2016639 Poscosecha de granos y
+semillas 3 SI Poscosecha de frutas y hortalizas Prerrequisito
+Créditos exigidos en la agrupación Poscosecha de Productos Agropecuarios: nueve (9)
+AGRUPACIÓN: Construcciones Rurales
+CÓDIGO NOMBRE DE LA
+ASIGNATURA CRÉDITOS OBLIGATORIA
+ASIGNATURAS REQUISITO
+NOMBRE TIPO
+2015941 Análisis estructural básico 3 SI Mecánica de sólidos Prerrequisito
+2016627 Diseño de estructuras de
+concreto 3 SI Análisis estructural básico Prerrequisito
+2016625 Construcciones rurales:
+Manejo ambiental 3 NO Diseño de estructuras de concreto Prerrequisito
+2023219
+Construcciones rurales:
+Materiales y administración de
+obra
+3 NO Diseño de estructuras de concreto Prerrequisito
+Créditos exigidos en la agrupación Construcciones Rurales: nueve (9)
+AGRUPACIÓN: Maquinaria Agrícola y Mecanización
+CÓDIGO CRÉDITOS OBLIGATORIA ASIGNATURAS REQUISITO
+25/6/2021 Sección Contenido - Universidad Nacional de Colombia
+www.legal.unal.edu.co/rlunal/home/doc.jsp?d_i=86674 8/10
+NOMBRE DE LA
+ASIGNATURA NOMBRE TIPO
+2016631 Elementos de máquinas
+agrícolas 3 SI Mecánica de sólidos Prerrequisito
+2016633 Fuentes de potencia en la
+agricultura 3 SI Elementos de máquinas agrícolas Prerrequisito
+2016636 Máquinas agrícolas 3 SI Fuentes de potencia en la
+agricultura Prerrequisito
+Créditos exigidos en la agrupación Maquinaria Agrícola y Mecanización: nueve (9)
+AGRUPACIÓN: Taller De Proyectos De Ingeniería
+CÓDIGO NOMBRE DE LA
+ASIGNATURA CRÉDITOS OBLIGATORIA
+ASIGNATURAS REQUISITO
+NOMBRE TIPO
+2024045 Taller de proyectos
+interdisciplinarios 3 SI 65 créditos aprobados Disciplinares
+C Prerrequisito
+Créditos exigidos en la agrupación Taller de Proyectos de Ingeniería: tres (3)
+AGRUPACIÓN: Trabajo de Grado
+CÓDIGO NOMBRE DE LA
+ASIGNATURA CRÉDITOS OBLIGATORIA
+ASIGNATURAS REQUISITO
+NOMBRE TIPO
+2015372 Trabajo de Grado 6 NO 68 créditos aprobados
+Componente Disciplinar Prerrequisito
+2015373 Trabajo de Grado -
+Asignaturas de Posgrado 6 NO 68 créditos aprobados
+Componente Disciplinar Prerrequisito
+Créditos exigidos en la agrupación Trabajo de grado: seis (6)
+c) Componente de Libre Elección:
+AGRUPACIÓN: Profundización
+CÓDIGO NOMBRE DE LA
+ASIGNATURA CRÉDITOS OBLIGATORIA
+ASIGNATURAS REQUISITO
+NOMBRE TIPO
+2024029 Administración de
+maquinaria 3 NO 108 Créditos Aprobados Prerrequisito
+2022920 Aplicación de pesticidas 3 NO 108 Créditos Aprobados Prerrequisito
+2024030 Bombas y estaciones de
+bombeo 3 NO 108 Créditos Aprobados Prerrequisito
+2015954 Estructuras hidráulicas 3 NO 108 Créditos Aprobados Prerrequisito
+25/6/2021 Sección Contenido - Universidad Nacional de Colombia
+www.legal.unal.edu.co/rlunal/home/doc.jsp?d_i=86674 9/10
+2022894 Diseño básico de estructuras
+metálicas
+3 NO 108 Créditos Aprobados Prerrequisito
+2024607 Diseño de implementos de
+labranza 3 NO 108 Créditos Aprobados Prerrequisito
+2024466 Ingeniería de conservación
+de agua y suelos 3 NO 108 Créditos Aprobados Prerrequisito
+2024612 Manejo y conservaciones de
+perecederos 3 NO 108 Créditos Aprobados Prerrequisito
+2024611 Máquinas cosechadoras 3 NO 108 Créditos Aprobados Prerrequisito
+2022923 Riego por goteo 3 NO 108 Créditos Aprobados Prerrequisito
+2022913 Riego por superficie 3 NO 108 Créditos Aprobados Prerrequisito
+2024608 Invernaderos 3 NO 108 Créditos Aprobados Prerrequisito
+2025988
+Taller de simulación
+procesos de manufactura y
+sistemas de servicios
+3 NO 108 Créditos Aprobados Prerrequisito
+2025987
+Modelos estocásticos para
+procesos de manufactura y
+sistemas de servicios
+3 NO 108 Créditos Aprobados Prerrequisito
+2025971 Optimización 3 NO 108 Créditos Aprobados Prerrequisito
+2016762 Práctica Estudiantil I 3 NO 126 Créditos Aprobados Prerrequisito
+2016763 Práctica Estudiantil II 6 NO 126 Créditos Aprobados Prerrequisito
+1000070 Práctica Colombia I 3 NO 126 Créditos Aprobados Prerrequisito
+1000071 Práctica Colombia II 6 NO 126 Créditos Aprobados Prerrequisito
+Créditos exigidos en la Agrupación Profundización: cero (0)
+ARTÍCULO 2. La oferta de asignaturas optativas y de profundización será revisada anualmente y podrá ser modificada
+por el Consejo de Facultad, previa solicitud del Comité Asesor del Programa, teniendo en cuenta en dichas
+modificaciones el mejoramiento en el nivel de flexibilidad del plan de estudios y la articulación con otros planes de
+estudio de la Universidad.
+PARÁGRAFO.Las modificaciones a que hace referencia este artículo serán formalizadas mediante Acuerdo del
+Consejo de Facultad, previa solicitud del Comité Asesor del programa curricular, con el acompañamiento de la
+Dirección Nacional de Programas de Pregrado y la revisión de la Dirección Académica de la Sede.
+ARTÍCULO 3. Para inscribir Trabajo de Grado el estudiante debe haber aprobado el 80 % del total de créditos exigidos
+del componente disciplinar o profesional (es decir 68).
+ARTICULO 4. Un estudiante podrá cursar solo una de las asignaturas con el nombre Práctica Estudiantil o Práctica
+Colombia, para lo cual utilizará créditos del componente de libre elección. Las prácticas estudiantiles son asignaturas
+de tres o seis créditos académicos, dependiendo del contenido académico y de la dedicación del estudiante. La
+definición de cuál de las asignaturas con el nombre Práctica será inscrita por el estudiante, la recomendará el Comité
+25/6/2021 Sección Contenido - Universidad Nacional de Colombia
+www.legal.unal.edu.co/rlunal/home/doc.jsp?d_i=86674 10/10
+Asesor del Programa Curricular, con base en la propuesta de trabajo presentada por el estudiante y será aprobada por
+el Consejo de Facultad.
+ARTÍCULO 5. Comunicar el presente Acuerdo a las siguientes dependencias: Dirección Nacional de Programas de
+Pregrado, Dirección Académica de la Sede Bogotá, Dirección de Área Ingeniería Civil y Agrícola y Dirección del
+Departamento de Ingeniería Civil y Agrícola.
+ARTÍCULO 4. El presente Acuerdo rige a partir de la fecha de su publicación en el Sistema de Información Normativa,
+Jurisprudencial y de Conceptos de la Universidad Nacional de Colombia y deroga el Acuerdo 15 de 2013 del Consejo
+de Facultad, así como todas aquellas normas que le sean contrarias.
+PUBLÍQUESE, COMUNÍQUESE Y CÚMPLASE
+Dada en la ciudad de Bogotá, D.C., a los catorce (14) días del mes de abril de 2016.
+ÓSCAR GERMÁN DUARTE VELASCO
+Presidente
+LUIS FRANCISCO BOADA ESLAVA
+Secretario

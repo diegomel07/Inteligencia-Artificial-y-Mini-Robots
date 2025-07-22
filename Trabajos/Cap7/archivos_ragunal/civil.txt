@@ -1,0 +1,2029 @@
+
+SISTEMA DE INFORMACIÓN NORMATIVA, JURISPRUDENCIAL Y DE CONCEPTOS
+"RÉGIMEN LEGAL"
+ 
+
+    Fecha de expedición:  29/10/2015
+    Fecha de entrada en vigencia:  24/11/2015
+    Mapa del Documento
+
+
+
+ACUERDO 27 DE 2015
+
+(Acta No. 18, de 29 octubre)
+
+"Por el cual se modifica el plan de estudios de Ingeniería Civil de la Universidad Nacional de Colombia Sede Bogotá y se deroga el Acuerdo 14 de 2013 del Consejo de la Facultad de Ingeniería de la Sede Bogotá de la Universidad Nacional de Colombia "
+
+EL CONSEJO DE LA FACULTAD DE INGENIERÍA
+
+En uso de atribuciones conferidas por el Artículo 6 del Acuerdo 257 de 2008 del Consejo Académico y
+
+CONSIDERANDO
+
+1. Que el Consejo Académico mediante Acuerdo 257 del 28 de noviembre de 2008, Acta No. 11, aprueba la modificación de la estructura del plan de estudios del Programa Curricular de Ingeniería Civil de la Facultad de Ingeniería de la Sede Bogotá de la Universidad Nacional de Colombia para ajustarse al Acuerdo 033 de 2007.
+
+2. Que el Artículo 3 del Acuerdo 257 de 2008 del Consejo Académico, establece que el Plan de Estudios tendrá un total de 180 créditos, y en el Artículo 4 los distribuye de la siguiente manera:
+
+a. Componente de fundamentación: cuarenta y ocho (48) créditos exigidos, de los cuales el estudiante deberá aprobar cuarenta y dos (42) créditos correspondientes a asignaturas obligatorias y seis (6) créditos correspondientes a asignaturas optativas.
+
+b. Componente disciplinar o profesional: noventa y seis (96) créditos exigidos, de los cuales el estudiante deberá aprobar noventa (90) créditos correspondientes a asignaturas obligatorias y seis (6) créditos correspondientes a asignaturas optativas.
+
+c. Componente de libre elección: Treinta y seis (36) créditos exigidos, que corresponden al 20% del total de créditos del plan de estudios.
+
+3. Que el Artículo 6 del Acuerdo 257 de 2008 del Consejo Académico, dispone que el Consejo de Facultad de Ingeniería, a través de Acuerdo listará las asignaturas contenidas en cada una de las agrupaciones temáticas de los Componentes de Fundamentación y Formación Disciplinar o Profesional, especificando códigos, créditos y requisitos.
+
+4. Que el Consejo de Facultad en sesión de octubre 29 de 2015 , Acta 18, aprueba la propuesta del coordinador del programa de ingeniería civil, para modificar el plan de estudios de ingeniería civil establecido por Acuerdo 14 de 2013 del Consejo de Facultad, en el sentido de cambiar el requisito de la asignatura Fundamentos de construcción, con lo cual se facilita que los estudiantes puedan cursarla sin que implique prolongación de tiempo de permanencia y se corrige al 60 % de créditos aprobados, es decir 108 créditos, el requisito de asignaturas de la agrupación Profundización:
+
+AGRUPACIÓN: Construcción
+
+CÓDIGO
+	
+
+NOMBRE DE LA ASIGNATURA
+	
+
+CRÉDITOS
+	
+
+OBLIGATORIA
+	
+
+ASIGNATURAS REQUISITO
+
+NOMBRE
+	
+
+TIPO
+
+2015955
+	
+
+Fundamentos de Construcción
+	
+
+3
+	
+
+SI
+	
+
+Pasa de 77 a 67 créditos disciplinares C aprobados
+	
+
+Prerrequisito
+
+Créditos exigidos en la agrupación Construcción: tres (3)
+
+AGRUPACIÓN: Profundización
+
+CÓDIGO
+	
+
+NOMBRE DE LA ASIGNATURA
+	
+
+CRÉDITOS
+	
+
+OBLIGATORIA
+	
+
+ASIGNATURAS REQUISITO
+
+NOMBRE
+	
+
+TIPO
+
+2022894
+	
+
+Diseño Básico de Estructuras Metálicas
+	
+
+3
+	
+
+NO
+	
+
+Pasa de 102 a 108 Créditos Aprobados
+	
+
+Prerrequisito
+
+2022895
+	
+
+Diseño Básico de Puentes
+	
+
+3
+	
+
+NO
+	
+
+Pasa de 102 a 108 Créditos Aprobados
+	
+
+Prerrequisito
+
+2026185
+	
+
+Gerencia de Proyectos de Infraestructura
+	
+
+3
+	
+
+NO
+	
+
+Pasa de 102 a 108 Créditos Aprobados
+	
+
+Prerrequisito
+
+2022914
+	
+
+Riesgos Geotécnicos
+	
+
+3
+	
+
+NO
+	
+
+Pasa de 102 a 108 Créditos Aprobados
+	
+
+Prerrequisito
+
+2020481
+	
+
+Túneles
+	
+
+3
+	
+
+NO
+	
+
+Pasa de 102 a 108 Créditos Aprobados
+	
+
+Prerrequisito
+
+2020486
+	
+
+Cimentaciones
+	
+
+3
+	
+
+NO
+	
+
+Pasa de 102 a 108 Créditos Aprobados
+	
+
+Prerrequisito
+
+2020322
+	
+
+Evaluación Geoambiental
+	
+
+3
+	
+
+NO
+	
+
+Pasa de 102 a 108 Créditos Aprobados
+	
+
+Prerrequisito
+
+2022916
+	
+
+Taller de Instalaciones Hidráulicas
+	
+
+3
+	
+
+NO
+	
+
+Pasa de 102 a 108 Créditos Aprobados
+	
+
+Prerrequisito
+
+2025343
+	
+
+Taller de modelación de hidrosistemas: Hidráulica
+	
+
+3
+	
+
+NO
+	
+
+Pasa de 102 a 108 Créditos Aprobados
+	
+
+Prerrequisito
+
+2025342
+	
+
+Taller de modelación de hidrosistemas: Hidrología
+	
+
+3
+	
+
+NO
+	
+
+Pasa de 102 a 108 Créditos Aprobados
+	
+
+Prerrequisito
+
+Que en mérito de lo expuesto,
+
+ACUERDA
+
+ARTÍCULO 1. Establecer los créditos, agrupaciones y asignaturas de los componentes del Plan de estudios de Ingeniería Civil, teniendo en cuenta que todos los prerrequisitos son de matrícula:
+
+a) Componente de Fundamentación:
+
+AGRUPACIÓN: Matemáticas, Probabilidad y Estadística
+
+CÓDIGO
+	
+
+NOMBRE DE LA ASIGNATURA
+	
+
+CRÉDITOS
+	
+
+OBLIGATORIA
+	
+
+ASIGNATURAS REQUISITO
+
+NOMBRE
+	
+
+TIPO
+
+1000004
+	
+
+Cálculo Diferencial
+	
+
+4
+	
+
+SI
+	
+
+Matemáticas Básicas
+	
+
+Prerrequisito
+
+1000005
+	
+
+Cálculo Integral
+	
+
+4
+	
+
+SI
+	
+
+Cálculo Diferencial
+	
+
+Prerrequisito
+
+1000003
+	
+
+Álgebra Lineal
+	
+
+4
+	
+
+SI
+	
+
+Cálculo Diferencial
+	
+
+Prerrequisito
+
+1000006
+	
+
+Cálculo en Varias Variables
+	
+
+4
+	
+
+SI
+	
+
+Cálculo Integral
+
+Álgebra Lineal
+	
+
+Prerrequisito
+
+Prerrequisito
+
+1000007
+	
+
+Ecuaciones Diferenciales
+	
+
+4
+	
+
+SI
+	
+
+Cálculo Integral
+
+Álgebra Lineal
+	
+
+Prerrequisito
+
+Prerrequisito
+
+1000013
+	
+
+Probabilidad y Estadística Fundamental
+	
+
+3
+	
+
+SI
+	
+
+Cálculo Diferencial
+	
+
+Prerrequisito
+
+Créditos exigidos en la agrupación Matemáticas, Probabilidad y Estadística: veintitrés (23)
+
+AGRUPACIÓN: Física
+
+CÓDIGO
+	
+
+NOMBRE DE LA ASIGNATURA
+	
+
+CRÉDITOS
+	
+
+OBLIGATORIA
+	
+
+ASIGNATURAS REQUISITO
+
+NOMBRE
+	
+
+TIPO
+
+1000019
+	
+
+Fundamentos de Mecánica
+	
+
+4
+	
+
+SI
+	
+
+Cálculo Diferencial
+	
+
+Prerrequisito
+
+Créditos exigidos en la agrupación Física: cuatro (4)
+
+AGRUPACIÓN: Biología y Química
+
+CÓDIGO
+	
+
+NOMBRE DE LA ASIGNATURA
+	
+
+CRÉDITOS
+	
+
+OBLIGATORIA
+	
+
+ASIGNATURAS REQUISITO
+
+NOMBRE
+	
+
+TIPO
+
+1000011
+	
+
+Fundamentos de Ecología
+	
+
+3
+	
+
+SI
+	
+
+ 
+	
+
+ 
+
+1000024
+	
+
+Principios de Química
+	
+
+3
+	
+
+SI
+	
+
+ 
+	
+
+ 
+
+Créditos exigidos en la agrupación Biología y Química: seis (6)
+
+AGRUPACIÓN: Expresión Gráfica
+
+CÓDIGO
+	
+
+NOMBRE DE LA ASIGNATURA
+	
+
+CRÉDITOS
+	
+
+OBLIGATORIA
+	
+
+ASIGNATURAS REQUISITO
+
+NOMBRE
+	
+
+TIPO
+
+2015711
+	
+
+Dibujo Básico
+	
+
+3
+	
+
+SI
+	
+
+	
+
+Créditos exigidos en la agrupación Expresión Gráfica: tres (3)
+
+AGRUPACIÓN: Herramientas de Ingeniería A y B
+
+CÓDIGO
+	
+
+NOMBRE DE LA ASIGNATURA
+	
+
+CRÉDITOS
+	
+
+OBLIGATORIA
+	
+
+ASIGNATURAS REQUISITO
+
+NOMBRE
+	
+
+TIPO
+
+2015734
+	
+
+Programación de Computadores
+	
+
+3
+	
+
+NO
+	
+
+ 
+	
+
+ 
+
+2016375
+	
+
+Programación Orientada a Objetos
+	
+
+3
+	
+
+NO
+	
+
+Programación de Computadores
+	
+
+Prerrequisito
+
+2022761
+	
+
+SIG para Ingeniería Civil
+	
+
+3
+	
+
+NO
+	
+
+Geomática Aplicada
+	
+
+Prerrequisito
+
+2015970
+	
+
+Métodos Numéricos
+	
+
+3
+	
+
+NO
+	
+
+Ecuaciones Diferenciales
+	
+
+Prerrequisito
+
+2017293
+	
+
+Modelación Matemática
+	
+
+3
+	
+
+NO
+	
+
+Ecuaciones Diferenciales
+	
+
+Prerrequisito
+
+2015942
+	
+
+Aplicación de elementos finitos
+	
+
+3
+	
+
+NO
+	
+
+Ecuaciones Diferenciales
+	
+
+Prerrequisito
+
+2025971
+	
+
+Optimización
+	
+
+3
+	
+
+NO
+	
+
+Modelos y Simulación
+	
+
+Prerrequisito
+
+2025970
+	
+
+Modelos y Simulación
+	
+
+3
+	
+
+NO
+	
+
+Cálculo en Varias Variables; y,
+
+Ecuaciones Diferenciales;
+	
+
+Prerrequisito
+
+Créditos exigidos en la agrupación Herramientas de Ingeniería A y B: seis (6)
+
+AGRUPACIÓN: Económicas y Financieras
+
+CÓDIGO
+	
+
+NOMBRE DE LA ASIGNATURA
+	
+
+CRÉDITOS
+	
+
+OBLIGATORIA
+	
+
+ASIGNATURAS REQUISITO
+
+NOMBRE
+	
+
+TIPO
+
+2015703
+	
+
+Ingeniería Económica
+	
+
+3
+	
+
+SI
+	
+
+Cálculo Integral
+	
+
+Prerrequisito
+
+2015972
+	
+
+Preparación y Evaluación de Proyectos de Infraestructura
+	
+
+3
+	
+
+SI
+	
+
+Ingeniería de Transporte
+	
+
+Prerrequisito
+
+Créditos exigidos en la agrupación Económicas y Financieras: seis (6)
+
+b) Componente de Formación Disciplinar o Profesional:
+
+AGRUPACIÓN: Básica Disciplinar
+
+CÓDIGO
+	
+
+NOMBRE DE LA ASIGNATURA
+	
+
+CRÉDITOS
+	
+
+OBLIGATORIA
+	
+
+ASIGNATURAS REQUISITO
+
+NOMBRE
+	
+
+TIPO
+
+2026186
+	
+
+Introducción a la Ingeniería Civil
+	
+
+3
+	
+
+SI
+	
+
+ 
+	
+
+ 
+
+2026134
+	
+
+Estática
+	
+
+3
+	
+
+SI
+	
+
+Álgebra Lineal
+
+Fundamentos de Mecánica
+	
+
+Prerrequisito
+
+2015958
+	
+
+Geomática Básica
+	
+
+4
+	
+
+SI
+	
+
+Dibujo Básico
+
+Introducción a la Ingeniería Civil
+	
+
+Prerrequisito
+
+Prerrequisito
+
+2015948
+	
+
+Dinámica
+	
+
+3
+	
+
+SI
+	
+
+Estática
+	
+
+Prerrequisito
+
+2015957
+	
+
+Geomática Aplicada
+	
+
+4
+	
+
+SI
+	
+
+Geomática Básica
+	
+
+Prerrequisito
+
+2015956
+	
+
+Geología
+	
+
+3
+	
+
+SI
+	
+
+Geomática Básica
+	
+
+Prerrequisito
+
+2015966
+	
+
+Mecánica de Fluidos
+	
+
+4
+	
+
+SI
+	
+
+Cálculo en Varias Variables
+
+Ecuaciones Diferenciales
+
+Estática
+	
+
+Prerrequisito
+
+Prerrequisito
+
+Prerrequisito
+
+2015968
+	
+
+Mecánica de Sólidos
+	
+
+4
+	
+
+SI
+	
+
+Cálculo en Varias Variables
+
+Estática
+	
+
+Prerrequisito
+
+Prerrequisito
+
+2015965
+	
+
+Materiales para Construcción
+	
+
+4
+	
+
+SI
+	
+
+Principios de Química
+
+Geología
+	
+
+Prerrequisito
+
+Prerrequisito
+
+2015978
+	
+
+Hidrología
+	
+
+3
+	
+
+SI
+	
+
+Probabilidad y Estadística Fundamental
+
+Mecánica de Fluidos
+	
+
+Prerrequisito
+
+Prerrequisito
+
+2026135
+	
+
+Ingeniería civil sostenible
+	
+
+3
+	
+
+SI
+	
+
+77 Créditos Disciplinares C aprobados
+	
+
+Prerrequisito
+
+Prerrequisito
+
+Prerrequisito
+
+Créditos exigidos en la agrupación Básica Disciplinar: treinta y ocho (38)
+
+AGRUPACIÓN: Electiva Técnica
+
+CÓDIGO
+	
+
+NOMBRE DE LA ASIGNATURA
+	
+
+CRÉDITOS
+	
+
+OBLIGATORIA
+	
+
+ASIGNATURAS REQUISITO
+
+NOMBRE
+	
+
+TIPO
+
+2026183
+	
+
+Análisis de Incertidumbre en Ingeniería Civil
+	
+
+3
+	
+
+NO
+	
+
+28 créditos disciplinares C aprobados
+	
+
+Prerrequisito
+
+2015229
+	
+
+Colombia Contemporánea
+	
+
+3
+	
+
+NO
+	
+
+28 créditos disciplinares C aprobados
+	
+
+Prerrequisito
+
+2022760
+	
+
+Gestión en Construcción
+	
+
+3
+	
+
+NO
+	
+
+28 créditos disciplinares C aprobados
+	
+
+Prerrequisito
+
+2015967
+	
+
+Mecánica de Rocas
+	
+
+3
+	
+
+NO
+	
+
+28 créditos disciplinares C aprobados
+	
+
+Prerrequisito
+
+2015952
+	
+
+Métodos numéricos para Ingeniería Civil
+	
+
+3
+	
+
+NO
+	
+
+28 créditos disciplinares C aprobados
+	
+
+Prerrequisito
+
+2015975
+	
+
+Taller de Experimentación y Modelación
+	
+
+3
+	
+
+NO
+	
+
+28 créditos disciplinares C aprobados
+	
+
+Prerrequisito
+
+2024045
+	
+
+Taller de Proyectos Interdisciplinarios
+	
+
+3
+	
+
+NO
+	
+
+28 créditos disciplinares C aprobados
+	
+
+Prerrequisito
+
+2026136
+	
+
+Tecnología del Concreto
+	
+
+3
+	
+
+NO
+	
+
+28 créditos disciplinares C aprobados
+	
+
+Prerrequisito
+
+2015977
+	
+
+Transporte Sostenible
+	
+
+3
+	
+
+NO
+	
+
+28 créditos disciplinares C aprobados
+	
+
+Prerrequisito
+
+2026137
+	
+
+Pacificación del tráfico
+	
+
+3
+	
+
+NO
+	
+
+28 créditos disciplinares C aprobados
+	
+
+Prerrequisito
+
+Créditos exigidos en la agrupación Electiva Técnica: tres (3)
+
+AGRUPACIÓN: Hidráulica
+
+CÓDIGO
+	
+
+NOMBRE DE LA ASIGNATURA
+	
+
+CRÉDITOS
+	
+
+OBLIGATORIA
+	
+
+ASIGNATURAS REQUISITO
+
+NOMBRE
+	
+
+TIPO
+
+2015961
+	
+
+Hidráulica Básica
+	
+
+4
+	
+
+SI
+	
+
+Mecánica de Fluidos
+	
+
+Prerrequisito
+
+2015954
+	
+
+Estructuras Hidráulicas
+	
+
+3
+	
+
+SI
+	
+
+Hidráulica Básica
+	
+
+Prerrequisito
+
+Créditos exigidos en la agrupación Hidráulica: siete (7)
+
+AGRUPACIÓN: Vías y Transporte
+
+CÓDIGO
+	
+
+NOMBRE DE LA ASIGNATURA
+	
+
+CRÉDITOS
+	
+
+OBLIGATORIA
+	
+
+ASIGNATURAS REQUISITO
+
+NOMBRE
+	
+
+TIPO
+
+2026138
+	
+
+Ingeniería de Transporte
+	
+
+3
+	
+
+SI
+	
+
+Fundamentos de Economía
+
+Álgebra Lineal
+	
+
+Prerrequisito
+
+Prerrequisito
+
+2015963
+	
+
+Ingeniería de Tránsito
+	
+
+3
+	
+
+SI
+	
+
+Ingeniería de Transporte
+	
+
+Prerrequisito
+
+2015949
+	
+
+Diseño Geométrico de Vías
+	
+
+3
+	
+
+SI
+	
+
+Geomática Aplicada
+
+Ingeniería de Tránsito
+	
+
+Prerrequisito
+
+Prerrequisito
+
+Créditos exigidos en la agrupación Vías y Transporte: nueve (9)
+
+AGRUPACIÓN: Geotecnia
+
+CÓDIGO
+	
+
+NOMBRE DE LA ASIGNATURA
+	
+
+CRÉDITOS
+	
+
+OBLIGATORIA
+	
+
+ASIGNATURAS REQUISITO
+
+NOMBRE
+	
+
+TIPO
+
+2015969
+	
+
+Mecánica de Suelos
+	
+
+3
+	
+
+SI
+	
+
+Mecánica de Sólidos
+	
+
+Prerrequisito
+
+2015959
+	
+
+Geotecnia
+	
+
+3
+	
+
+SI
+	
+
+Mecánica de Suelos
+	
+
+Prerrequisito
+
+2015971
+	
+
+Pavimentos
+	
+
+3
+	
+
+SI
+	
+
+Materiales para Construcción
+
+Geotecnia
+	
+
+Prerrequisito Prerrequisito
+
+Créditos exigidos en la agrupación Geotecnia: nueve (9)
+
+AGRUPACIÓN: Estructuras
+
+CÓDIGO
+	
+
+NOMBRE DE LA ASIGNATURA
+	
+
+CRÉDITOS
+	
+
+OBLIGATORIA
+	
+
+ASIGNATURAS REQUISITO
+
+NOMBRE
+	
+
+TIPO
+
+2015941
+	
+
+Análisis Estructural Básico
+	
+
+3
+	
+
+SI
+	
+
+Mecánica de Sólidos
+	
+
+Prerrequisito
+
+2015940
+	
+
+Análisis Estructural Aplicado
+	
+
+3
+	
+
+SI
+	
+
+Análisis Estructural Básico
+
+Dinámica
+	
+
+Prerrequisito
+
+Prerrequisito
+
+2015950
+	
+
+Diseño Estructural
+	
+
+3
+	
+
+SI
+	
+
+Materiales para Construcción
+
+Análisis Estructural Aplicado
+	
+
+Prerrequisito Prerrequisito
+
+Créditos exigidos en la agrupación Estructuras: nueve (9)
+
+AGRUPACIÓN: Saneamiento Básico
+
+CÓDIGO
+	
+
+NOMBRE DE LA ASIGNATURA
+	
+
+CRÉDITOS
+	
+
+OBLIGATORIA
+	
+
+ASIGNATURAS REQUISITO
+
+NOMBRE
+	
+
+TIPO
+
+2015938
+	
+
+Acueductos
+	
+
+3
+	
+
+SI
+	
+
+Hidráulica Básica
+	
+
+Prerrequisito
+
+2015939
+	
+
+Alcantarillados
+	
+
+3
+	
+
+SI
+	
+
+Hidrología
+
+Acueductos
+	
+
+Prerrequisito
+
+Prerrequisito
+
+2015973
+	
+
+Saneamiento Ambiental
+	
+
+3
+	
+
+SI
+	
+
+Fundamentos de Ecología
+
+Acueductos
+	
+
+Prerrequisito
+
+Créditos exigidos en la agrupación Saneamiento Básico: nueve (9)
+
+AGRUPACIÓN: Construcción
+
+CÓDIGO
+	
+
+NOMBRE DE LA ASIGNATURA
+	
+
+CRÉDITOS
+	
+
+OBLIGATORIA
+	
+
+ASIGNATURAS REQUISITO
+
+NOMBRE
+	
+
+TIPO
+
+2015955
+	
+
+Fundamentos de Construcción
+	
+
+3
+	
+
+SI
+	
+
+67 créditos disciplinares C aprobados
+	
+
+Prerrequisito
+
+Créditos exigidos en la agrupación Construcción: tres (3)
+
+AGRUPACIÓN: Construcción de Obras Civiles
+
+CÓDIGO
+	
+
+NOMBRE DE LA ASIGNATURA
+	
+
+CRÉDITOS
+	
+
+OBLIGATORIA
+	
+
+ASIGNATURAS REQUISITO
+
+NOMBRE
+	
+
+TIPO
+
+2015943
+	
+
+Construcción de Edificaciones
+	
+
+3
+	
+
+NO
+	
+
+Fundamentos de Construcción
+	
+
+Prerrequisito
+
+2015944
+	
+
+Construcción de Infraestructura Vial
+	
+
+3
+	
+
+NO
+	
+
+Fundamentos de Construcción
+	
+
+Prerrequisito
+
+2015945
+	
+
+Construcción de Obras Fluviales y Litorales
+	
+
+3
+	
+
+NO
+	
+
+Fundamentos de Construcción
+	
+
+Prerrequisito
+
+Créditos exigidos en la agrupación Construcción: seis (3)
+
+TRABAJO DE GRADO
+
+CÓDIGO
+	
+
+NOMBRE DE LA ASIGNATURA
+	
+
+CRÉDITOS
+	
+
+OBLIGATORIA
+	
+
+ASIGNATURAS REQUISITO
+
+NOMBRE
+	
+
+TIPO
+
+2015296
+	
+
+Trabajo de Grado
+	
+
+6
+	
+
+NO
+	
+
+77 Créditos Aprobados Componente Disciplinar
+	
+
+Prerrequisito
+
+2015299
+	
+
+Trabajo de Grado - Asignaturas de Posgrado
+	
+
+6
+	
+
+NO
+	
+
+77 Créditos Aprobados Componente Disciplinar
+	
+
+Prerrequisito
+
+Créditos exigidos en Trabajo de grado: seis (6)
+
+c) Componente de Libre Elección:
+
+AGRUPACIÓN: Profundización
+
+CÓDIGO
+	
+
+NOMBRE DE LA ASIGNATURA
+	
+
+CRÉDITOS
+	
+
+OBLIGATORIA
+	
+
+ASIGNATURAS REQUISITO
+
+NOMBRE
+	
+
+TIPO
+
+2022894
+	
+
+Diseño Básico de Estructuras Metálicas
+	
+
+3
+	
+
+NO
+	
+
+108 Créditos Aprobados
+	
+
+Prerrequisito
+
+2022895
+	
+
+Diseño Básico de Puentes
+	
+
+3
+	
+
+NO
+	
+
+108 Créditos Aprobados
+	
+
+Prerrequisito
+
+2026185
+	
+
+Gerencia de Proyectos de Infraestructura
+	
+
+3
+	
+
+NO
+	
+
+108 Créditos Aprobados
+	
+
+Prerrequisito
+
+2022914
+	
+
+Riesgos Geotécnicos
+	
+
+3
+	
+
+NO
+	
+
+108 Créditos Aprobados
+	
+
+Prerrequisito
+
+2020481
+	
+
+Túneles
+	
+
+3
+	
+
+NO
+	
+
+108 Créditos Aprobados
+	
+
+Prerrequisito
+
+2020486
+	
+
+Cimentaciones
+	
+
+3
+	
+
+NO
+	
+
+108 Créditos Aprobados
+	
+
+Prerrequisito
+
+2020322
+	
+
+Evaluación Geoambiental
+	
+
+3
+	
+
+NO
+	
+
+108 Créditos Aprobados
+	
+
+Prerrequisito
+
+2022916
+	
+
+Taller de Instalaciones Hidráulicas
+	
+
+3
+	
+
+NO
+	
+
+108 Créditos Aprobados
+	
+
+Prerrequisito
+
+2025343
+	
+
+Taller de modelación de hidrosistemas: Hidráulica
+	
+
+3
+	
+
+NO
+	
+
+108 Créditos Aprobados
+	
+
+Prerrequisito
+
+2025342
+	
+
+Taller de modelación de hidrosistemas: Hidrología
+	
+
+3
+	
+
+NO
+	
+
+108 Créditos Aprobados
+	
+
+Prerrequisito
+
+2016762
+	
+
+Práctica Estudiantil I
+	
+
+3
+	
+
+NO
+	
+
+126 Créditos Aprobados
+	
+
+Prerrequisito
+
+2016763
+	
+
+Práctica Estudiantil II
+	
+
+6
+	
+
+NO
+	
+
+126 Créditos Aprobados
+	
+
+Prerrequisito
+
+1000070
+	
+
+Práctica Colombia I
+	
+
+3
+	
+
+NO
+	
+
+126 Créditos Aprobados
+	
+
+Prerrequisito
+
+1000071
+	
+
+Práctica Colombia II
+	
+
+6
+	
+
+NO
+	
+
+126 Créditos Aprobados
+	
+
+Prerrequisito
+
+Créditos exigidos en la Agrupación Profundización: cero (0)
+
+ARTÍCULO 2. La oferta de asignaturas optativas y de profundización será revisada anualmente y podrá ser modificada por el Consejo de Facultad, previa solicitud del Comité Asesor del Programa, teniendo en cuenta en dichas modificaciones el mejoramiento en el nivel de flexibilidad del plan de estudios y la articulación con otros planes de estudio de la Universidad.
+
+PARÁGRAFO 1. Las modificaciones a que hace referencia este artículo serán formalizadas mediante Acuerdo del Consejo de Facultad, previa solicitud del Comité Asesor del programa curricular, con el acompañamiento de la Dirección Nacional de Programas de Pregrado y la revisión de la Dirección Académica de la Sede.
+
+ARTICULO 3. Para inscribir Trabajo de Grado el estudiante debe haber aprobado el 80 % del total de créditos exigidos del componente disciplinar o profesional (es decir 77).
+
+ARTICULO 4. Un estudiante podrá cursar solo una de las asignaturas con el nombre Práctica Estudiantil o Práctica Colombia, para lo cual utilizará créditos del componente de libre elección. Las prácticas estudiantiles son asignaturas de tres o seis créditos académicos, dependiendo del contenido académico y de la dedicación del estudiante. La definición de cuál de las asignaturas con el nombre Práctica será inscrita por el estudiante, la recomendará el Comité Asesor del Programa Curricular, con base en la propuesta de trabajo presentada por el estudiante y será aprobada por el Consejo de Facultad.
+
+ARTICULO 5. Comunicar el presente Acuerdo a las siguientes dependencias: Dirección Nacional de Programas de Pregrado, Dirección Académica de la Sede Bogotá, Dirección de Área Curricular de Ingeniería Civil y Agrícola y Dirección del Departamento de Ingeniería Civil y Agrícola.
+
+ARTÍCULO   6. El presente Acuerdo rige a partir de la fecha de su publicación en el Sistema de Información Normativa, Jurisprudencial y de Conceptos - Régimen Legal de la Universidad Nacional de Colombia- y deroga el Acuerdo 14 de 2013 del Consejo de Facultad, así como todas aquellas normas que le sean contrarias.
+
+PUBLÍQUESE, COMUNÍQUESE Y CÚMPLASE
+
+Dada en la ciudad de Bogotá, D.C., a los veintinueve (29) días del mes de octubre de 2015.
+
+OSCAR GERMÁN DUARTE VELASCO
+
+Presidente
+
+LUIS FRANCISCO BOADA ESLAVA
+
+Secretario
+

@@ -1,0 +1,2584 @@
+
+SISTEMA DE INFORMACIÓN NORMATIVA, JURISPRUDENCIAL Y DE CONCEPTOS
+"RÉGIMEN LEGAL"
+ 
+
+    Fecha de expedición:  11/12/2014
+    Fecha de entrada en vigencia:  18/12/2014
+    Mapa del Documento
+
+
+
+ACUERDO 024 DE 2014
+
+(Acta 023, 11 de diciembre)
+
+"Por el cual se modifica el plan de estudios del Programa Curricular de Ingeniería Industrial de la Facultad de Ingeniería de la Sede Bogotá de la Universidad Nacional de Colombia, con el fin de adaptarse al Acuerdo 096 de 2014 del Consejo Académico y se derogan los Acuerdos 07 de 2013 y 22 de 2014 del Consejo de Facultad"
+
+EL CONSEJO DE LA FACULTAD DE INGENIERÍA
+
+En uso de atribuciones conferidas por el Acuerdo 11 de 2005 del Consejo Superior Universitario, Artículo 35, Numeral 4, y en especial las conferidas en el Acuerdo 040 de 2009 del Consejo Académico
+
+CONSIDERANDO
+
+Que el Consejo Académico, mediante Acuerdo 096 de 2014, aprobó la modificación de la estructura del plan de estudios del programa curricular de Ingeniería Industrial de la Facultad de Ingeniería de la Sede Bogotá, y derogó el Acuerdo 219 de 2008 del Consejo Académico.
+
+Que el Consejo Académico, mediante el Acuerdo 096 de 2014, estableció que los ciento sesenta y ocho (168) créditos exigidos del plan de estudios del programa curricular de Ingeniería Industrial de la Facultad de Ingeniería de la Sede Bogotá se distribuyen de la siguiente manera:
+
+a. Componente de Fundamentación: cuarenta y dos (42) créditos exigidos, de los cuales el estudiante deberá aprobar veintidós (22) créditos exigidos correspondientes a asignaturas sin opciones; y, veinte (20) créditos correspondientes a asignaturas con opciones.
+
+b. Componente de Formación Disciplinar o Profesional: noventa y dos (92) créditos exigidos, de los cuales el estudiante deberá aprobar cincuenta y dos (52) créditos exigidos correspondientes a asignaturas sin opciones; y, cuarenta (40) créditos exigidos correspondientes a asignaturas con opciones.
+
+c. Componente de Libre Elección: treinta y cuatro (34) créditos exigidos, que corresponden al 20% del total de créditos del plan de estudios.
+
+Que según el artículo 6 del Acuerdo 096 de 2014, del Consejo Académico, corresponde al Consejo de la Facultad de Ingeniería expedir un acuerdo en el cual se precisen las asignaturas del plan de estudios del programa curricular de Ingeniería Industrial con su código, créditos y requisitos, en cada una de las agrupaciones temáticas de los componentes de fundamentación y de formación disciplinar o profesional, establecidas en dicho acuerdo.
+
+Que en mérito de lo expuesto,
+
+ACUERDA
+
+ARTÍCULO 1. Los aprendizajes esperados que los estudiantes del programa curricular de Ingeniería Industrial de la Facultad de Ingeniería de la Sede Bogotá, tienen al momento de su graduación como resultado de su proceso educativo, son los siguientes:
+
+a. La capacidad para aplicar el conocimiento y la comprensión de las matemáticas y las ciencias y la ingeniería.
+
+b. La capacidad para diseñar y realizar experimentos, así como analizar e interpretar los datos.
+
+c. La capacidad de diseñar un sistema, componente o proceso para satisfacer necesidades deseadas y dentro de restricciones reales, económicas, ambientales, sociales, políticas, éticas, sanitarias, de seguridad, en el proceso de manufactura y de sostenibilidad.
+
+d. Actitud y capacidad para trabajar en grupos multidisciplinarios y multiculturales en contextos nacionales e internacionales.
+
+e. La habilidad para identificar, formular y resolver problemas de ingeniería
+
+f. La comprensión de los aspectos y las responsabilidades profesionales, éticas, sociales, históricas, ambientales, económicas y jurídicas; y la apropiación de estas responsabilidades como orientadoras de su quehacer.
+
+g. La capacidad de comunicarse de manera efectiva con una amplia variedad de audiencias en español, en inglés, en una tercera lengua estratégica y en lenguajes formales, gráficos y simbólicos.
+
+h. La formación general necesaria para comprender el impacto de las soluciones de ingeniería en un contexto global, el contexto económico, ambiental y social
+
+i. Reconocimiento de la necesidad y capacidad de participar en el aprendizaje continuo y permanente a lo largo de la vida.
+
+j. Reconocimiento de la necesidad y capacidad de mantenerse actualizado en los temas contemporáneos necesarios para comprender, a nivel local y global, el contexto histórico, político, social, económico y ambiental de su quehacer.
+
+k. La capacidad de utilizar las técnicas, habilidades y herramientas modernas de ingeniería necesarias para la práctica de la ingeniería.
+
+ARTÍCULO 2. Especificar códigos, requisitos y créditos de las asignaturas que conforman las agrupaciones del plan de estudios del programa curricular de Ingeniería Industrial de la Facultad de Ingeniería de la Sede Bogotá, de la siguiente manera:
+
+A) COMPONENTE DE FUNDAMENTACIÓN
+
+AGRUPACIÓN: Matemáticas
+
+Subagrupación: Cálculo Diferencial
+
+CÓDIGO DE LA ASIGNATURA
+	
+
+NOMBRE DE LA ASIGNATURA
+	
+
+CRÉDITOS
+	
+
+OBLIGATORIA
+	
+
+ASIGNATURA PRERREQUISITO / CORREQUISITO
+
+NOMBRE DE LA ASIGNATURA
+	
+
+REQUISITOS
+
+1000004
+	
+
+Cálculo Diferencial
+	
+
+4
+	
+
+NO
+	
+
+Matemáticas Básicas
+	
+
+Prerrequisito
+
+2016377
+	
+
+Cálculo Diferencial en una Variable
+	
+
+4
+	
+
+NO
+	
+
+Matemáticas Básicas
+	
+
+Prerrequisito
+
+Créditos exigidos de la subagrupación Cálculo Diferencial: Cuatro (4).
+
+Subagrupación: Cálculo Integral
+
+CÓDIGO DE LA ASIGNATURA
+	
+
+NOMBRE DE LA ASIGNATURA
+	
+
+CRÉDITOS
+	
+
+OBLIGATORIA
+	
+
+ASIGNATURA PRERREQUISITO / CORREQUISITO
+
+NOMBRE DE LA ASIGNATURA
+	
+
+REQUISITOS
+
+1000005
+	
+
+Cálculo Integral
+	
+
+4
+	
+
+NO
+	
+
+Cálculo Diferencial o Cálculo Diferencial en una Variable
+	
+
+Prerrequisito
+
+2015556
+	
+
+Cálculo Integral en una Variable
+	
+
+4
+	
+
+NO
+	
+
+Cálculo Diferencial o Cálculo Diferencial en una Variable
+	
+
+Prerrequisito
+
+Créditos exigidos de la subagrupación Cálculo Integral: Cuatro (4).
+
+Subagrupación: Cálculo en Varias Variables
+
+CÓDIGO DE LA ASIGNATURA
+	
+
+NOMBRE DE LA ASIGNATURA
+	
+
+CRÉDITOS
+	
+
+OBLIGATORIA
+	
+
+ASIGNATURA PRERREQUISITO / CORREQUISITO
+
+NOMBRE DE LA ASIGNATURA
+	
+
+REQUISITOS
+
+1000006
+	
+
+Cálculo en Varias Variables
+	
+
+4
+	
+
+NO
+	
+
+Cálculo Integral o Cálculo Integral en una Variable
+	
+
+Prerrequisito
+
+2015162
+	
+
+Cálculo Vectorial
+	
+
+4
+	
+
+NO
+	
+
+Cálculo Integral o Cálculo Integral en una Variable
+	
+
+Prerrequisito
+
+Créditos exigidos de la subagrupación Cálculo en Varias Variables: Cuatro (4).
+
+Subagrupación: Álgebra Lineal
+
+CÓDIGO DE LA ASIGNATURA
+	
+
+NOMBRE DE LA ASIGNATURA
+	
+
+CRÉDITOS
+	
+
+OBLIGATORIA
+	
+
+ASIGNATURA PRERREQUISITO / CORREQUISITO
+
+NOMBRE DE LA ASIGNATURA
+	
+
+REQUISITOS
+
+1000003
+	
+
+Álgebra Lineal
+	
+
+4
+	
+
+NO
+	
+
+Cálculo Diferencial o Cálculo Diferencial en una Variable
+	
+
+Prerrequisito
+
+2015555
+	
+
+Álgebra Lineal Básica
+	
+
+4
+	
+
+NO
+	
+
+Cálculo Diferencial o Cálculo Diferencial en una Variable
+	
+
+Prerrequisito
+
+Créditos exigidos de la subagrupación Álgebra Lineal: Cuatro (4).
+
+Subagrupación: Ecuaciones Diferenciales
+
+CÓDIGO DE LA ASIGNATURA
+	
+
+NOMBRE DE LA ASIGNATURA
+	
+
+CRÉDITOS
+	
+
+OBLIGATORIA
+	
+
+ASIGNATURA PRERREQUISITO / CORREQUISITO
+
+NOMBRE DE LA ASIGNATURA
+	
+
+REQUISITOS
+
+1000007
+	
+
+Ecuaciones Diferenciales
+	
+
+4
+	
+
+NO
+	
+
+Cálculo Integral o Cálculo Integral en una Variable; y, Álgebra Lineal o Álgebra Lineal Básica
+	
+
+Prerrequisito
+
+2016342
+	
+
+Cálculo de Ecuaciones Diferenciales Ordinarias
+	
+
+4
+	
+
+NO
+	
+
+Cálculo Diferencial o Cálculo Diferencial en una Variable; y, Álgebra Lineal o Álgebra Lineal Básica
+	
+
+Prerrequisito
+
+Créditos exigidos de la subagrupación Ecuaciones Diferenciales: Cuatro (4).
+
+Créditos exigidos de la agrupación Matemáticas: Veinte (20)
+
+ Texto original subrayado fue modificado por Art. 1, Acuerdo CF Ingeniería 47 de 2017.
+
+AGRUPACIÓN: Probabilidad y Estadística CÓDIGO DE LA ASIGNATURA
+	
+
+NOMBRE DE LA ASIGNATURA
+	
+
+CRÉDITOS
+	
+
+OBLIGATORIA
+	
+
+ASIGNATURA PRERREQUISITO / CORREQUISITO
+
+NOMBRE DE LA ASIGNATURA
+	
+
+REQUISITOS
+
+2015178
+	
+
+Probabilidad
+	
+
+4
+	
+
+SI
+	
+
+Cálculo Integral o Cálculo Integral en una Variable
+	
+
+Prerrequisito
+
+2016379
+	
+
+Inferencia Estadística
+	
+
+4
+	
+
+SI
+	
+
+Probabilidad
+	
+
+Prerrequisito
+
+Créditos exigidos en la agrupación Probabilidad y Estadística: Ocho (8)
+
+AGRUPACIÓN: Física
+
+CÓDIGO DE LA ASIGNATURA
+	
+
+NOMBRE DE LA ASIGNATURA
+	
+
+CRÉDITOS
+	
+
+OBLIGATORIA
+	
+
+ASIGNATURA PRERREQUISITO / CORREQUISITO
+
+NOMBRE DE LA ASIGNATURA
+	
+
+REQUISITOS
+
+1000019
+	
+
+Fundamentos de Mecánica
+	
+
+4
+	
+
+SI
+	
+
+Cálculo Diferencial o Cálculo Diferencial en una Variable
+	
+
+Prerrequisito
+
+1000017
+	
+
+Fundamentos de Electricidad y Magnetismo
+	
+
+4
+	
+
+SI
+	
+
+Fundamentos de Mecánica ; y, Cálculo Integral o Cálculo Integral en una Variable
+	
+
+Prerrequisito
+
+Créditos exigidos en la agrupación Física: Ocho (8)
+
+AGRUPACIÓN: Programación
+
+CÓDIGO DE LA ASIGNATURA
+	
+
+NOMBRE DE LA ASIGNATURA
+	
+
+CRÉDITOS
+	
+
+OBLIGATORIA
+	
+
+ASIGNATURA PRERREQUISITO / CORREQUISITO
+
+NOMBRE DE LA ASIGNATURA
+	
+
+REQUISITOS
+
+2015734
+	
+
+Programación de Computadores
+	
+
+3
+	
+
+SI
+	
+
+-
+	
+
+-
+
+2016375
+	
+
+Programación Orientada a Objetos
+	
+
+3
+	
+
+SI
+	
+
+Programación de Computadores
+	
+
+Prerrequisito
+
+Créditos exigidos en la agrupación Programación: Seis (6)
+
+B) COMPONENTE DE FORMACIÓN DISCIPLINAR O PROFESIONAL
+
+
+Texto original subrayado fue modificado por Art. 1, Acuerdo CF Ingeniería 108 de 2020-
+
+AGRUPACIÓN: Administración y Gestión
+
+Subagrupación: Gestión Empresarial
+
+CÓDIGO DE LA ASIGNATURA
+	
+
+NOMBRE DE LA ASIGNATURA
+	
+
+CRÉDITOS
+	
+
+OBLIGATORIA
+	
+
+ASIGNATURA PRERREQUISITO / CORREQUISITO
+
+NOMBRE DE LA ASIGNATURA
+	
+
+REQUISITOS
+
+2026551
+	
+
+Creación y Gestión de Empresas
+	
+
+3
+	
+
+NO
+	
+
+Taller de Invención y Creatividad; y
+
+Economía General o Microeconomía I
+	
+
+Prerrequisito
+
+2016007
+	
+
+Fundamentos de Administración
+	
+
+4
+	
+
+NO
+	
+
+Taller de Invención y Creatividad; y
+
+Economía General o Microeconomía I
+	
+
+Prerrequisito
+
+Créditos exigidos en la subagrupación Gestión Empresarial: Tres (3).
+
+Subagrupación: Gerencia y Gestión de Proyectos
+
+CÓDIGO DE LA ASIGNATURA
+	
+
+NOMBRE DE LA ASIGNATURA
+	
+
+CRÉDITOS
+	
+
+OBLIGATORIA
+	
+
+ASIGNATURA PRERREQUISITO / CORREQUISITO
+
+NOMBRE DE LA ASIGNATURA
+	
+
+REQUISITOS
+
+2015702
+	
+
+Gerencia y Gestión de Proyectos
+	
+
+3
+	
+
+NO
+	
+
+Ingeniería Económica y Análisis de Riesgo
+	
+
+Prerrequisito
+
+2016028
+	
+
+Diseño, Gestión y Evaluación de Proyectos
+	
+
+4
+	
+
+NO
+	
+
+Ingeniería Económica y Análisis de Riesgo
+	
+
+Prerrequisito
+
+Créditos exigidos en la subagrupación Gerencia y Gestión de Proyectos: Tres (3).
+
+Subagrupación: Gestión Tecnológica
+
+CÓDIGO DE LA ASIGNATURA
+	
+
+NOMBRE DE LA ASIGNATURA
+	
+
+CRÉDITOS
+	
+
+OBLIGATORIA
+	
+
+ASIGNATURA PRERREQUISITO / CORREQUISITO
+
+NOMBRE DE LA ASIGNATURA
+	
+
+REQUISITOS
+
+2016600
+	
+
+Gestión Tecnológica
+	
+
+3
+	
+
+NO
+	
+
+Creación y Gestión de Empresas o Fundamentos de Administración; y, Sistemas de Información
+	
+
+Prerrequisito
+
+2016599
+	
+
+Gestión de la Ciencia, la Tecnología y la Innovación
+	
+
+3
+	
+
+NO
+	
+
+Creación y Gestión de Empresas o
+
+Fundamentos de Administración
+	
+
+Prerrequisito
+
+Créditos exigidos en la subagrupación Gestión Tecnológica: Tres (3).
+
+Subagrupación: Gerencia de Recursos Humanos
+
+CÓDIGO DE LA ASIGNATURA
+	
+
+NOMBRE DE LA ASIGNATURA
+	
+
+CRÉDITOS
+	
+
+OBLIGATORIA
+	
+
+ASIGNATURA PRERREQUISITO / CORREQUISITO
+
+NOMBRE DE LA ASIGNATURA
+	
+
+REQUISITOS
+
+2015701
+	
+
+Gerencia de Recursos Humanos
+	
+
+3
+	
+
+NO
+	
+
+Seguridad Industrial; y, Creación y Gestión de Empresas o Fundamentos de Administración
+	
+
+Prerrequisito
+
+2016111
+	
+
+Administración de Personal I
+	
+
+4
+	
+
+NO
+	
+
+Seguridad; y, Creación y Gestión de Empresas o Fundamentos de Administración
+	
+
+Prerrequisito
+
+Créditos exigidos en la subagrupación Gerencia de Recursos Humanos: Tres (3).
+
+Créditos exigidos en la agrupación Administración y Gestión: Doce (12)
+
+AGRUPACIÓN: Economía y Finanzas
+
+CÓDIGO DE LA ASIGNATURA
+	
+
+NOMBRE DE LA ASIGNATURA
+	
+
+CRÉDITOS
+	
+
+OBLIGATORIA
+	
+
+ASIGNATURA PRERREQUISITO / CORREQUISITO
+
+NOMBRE DE LA ASIGNATURA
+	
+
+REQUISITOS
+
+2025986
+	
+
+Ingeniería Económica y Análisis de Riesgo
+	
+
+3
+	
+
+SI
+	
+
+Cálculo en Varias Variables o Cálculo Vectorial; y,
+
+Sistemas de Costos o Fundamentos de Contabilidad de Gestión
+	
+
+Prerrequisito
+
+Subagrupación: Economía General
+
+CÓDIGO DE LA ASIGNATURA
+	
+
+NOMBRE DE LA ASIGNATURA
+	
+
+CRÉDITOS
+	
+
+OBLIGATORIA
+	
+
+ASIGNATURA PRERREQUISITO / CORREQUISITO
+
+NOMBRE DE LA ASIGNATURA
+	
+
+REQUISITOS
+
+2016592
+	
+
+Economía General
+	
+
+3
+	
+
+NO
+	
+
+Cálculo Diferencial o Cálculo Diferencial en una Variable; e, Introducción a la Ingeniería Industrial
+	
+
+Prerrequisito
+
+2016017
+	
+
+Microeconomía I
+	
+
+3
+	
+
+NO
+	
+
+Cálculo Diferencial o Cálculo Diferencial en una Variable; e, Introducción a la Ingeniería Industrial; y,
+
+Fundamentos de Economía
+	
+
+Prerrequisito
+
+Créditos exigidos en la subagrupación Economía General: Tres (3).
+
+Subagrupación: Sistemas de Costos
+
+CÓDIGO DE LA ASIGNATURA
+	
+
+NOMBRE DE LA ASIGNATURA
+	
+
+CRÉDITOS
+	
+
+OBLIGATORIA
+	
+
+ASIGNATURA PRERREQUISITO / CORREQUISITO
+
+NOMBRE DE LA ASIGNATURA
+	
+
+REQUISITOS
+
+2016610
+	
+
+Sistemas de Costos
+	
+
+4
+	
+
+NO
+	
+
+Economía General o Microeconomía I; y,
+
+Taller de Herramientas y Problemas en Ingeniería Industrial
+	
+
+Prerrequisito
+
+2016038
+	
+
+Fundamentos de Contabilidad de Gestión
+	
+
+4
+	
+
+NO
+	
+
+Economía General o Microeconomía I; y
+
+Fundamentos de Contabilidad Financiera; y,
+
+Taller de Herramientas y Problemas en Ingeniería Industrial
+	
+
+Prerrequisito
+
+Créditos exigidos en la subagrupación Sistemas de Costos: Tres (3).
+
+Subagrupación: Finanzas
+
+CÓDIGO DE LA ASIGNATURA
+	
+
+NOMBRE DE LA ASIGNATURA
+	
+
+CRÉDITOS
+	
+
+OBLIGATORIA
+	
+
+ASIGNATURA PRERREQUISITO / CORREQUISITO
+
+NOMBRE DE LA ASIGNATURA
+	
+
+REQUISITOS
+
+2016741
+	
+
+Finanzas
+	
+
+3
+	
+
+NO
+	
+
+Ingeniería Económica y Análisis de Riesgo
+	
+
+Prerrequisito
+
+2016037
+	
+
+Finanzas Avanzadas
+	
+
+4
+	
+
+NO
+	
+
+Ingeniería Económica y Análisis de Riesgo; y Fundamentos de Finanzas
+	
+
+Prerrequisito
+
+Créditos exigidos en la subagrupación Finanzas: Tres (3).
+
+Créditos exigidos en la agrupación Economía y Finanzas: Trece (13)
+
+AGRUPACIÓN: Materiales y Procesos
+
+CÓDIGO DE LA ASIGNATURA
+	
+
+NOMBRE DE LA ASIGNATURA
+	
+
+CRÉDITOS
+	
+
+OBLIGATORIA
+	
+
+ASIGNATURA PRERREQUISITO / CORREQUISITO
+
+NOMBRE DE LA ASIGNATURA
+	
+
+REQUISITOS
+
+2025993
+	
+
+Taller de Ciencia y Tecnología de Materiales
+	
+
+4
+	
+
+SI
+	
+
+Fundamentos de Mecánica
+	
+
+Prerrequisito
+
+2016619
+	
+
+Taller de Procesos Químicos y Biotecnológicos
+	
+
+3
+	
+
+SI
+	
+
+Taller de Ciencia y Tecnología de Materiales
+	
+
+Prerrequisito
+
+2016618
+	
+
+Taller de Procesos Metalmecánicos
+	
+
+3
+	
+
+SI
+	
+
+Taller de Ciencia y Tecnología de Materiales
+	
+
+Prerrequisito
+
+Créditos exigidos en la agrupación Materiales y Procesos: Diez (10)
+
+AGRUPACIÓN: Sistemas, Modelos, Optimización y Simulación
+
+CÓDIGO DE LA ASIGNATURA
+	
+
+NOMBRE DE LA ASIGNATURA
+	
+
+CRÉDITOS
+	
+
+OBLIGATORIA
+	
+
+ASIGNATURA PRERREQUISITO / CORREQUISITO
+
+NOMBRE DE LA ASIGNATURA
+	
+
+REQUISITOS
+
+2025987
+	
+
+Modelos Estocásticos para Procesos de Manufactura y Sistemas de Servicios
+	
+
+3
+	
+
+SI
+	
+
+Optimización o
+
+Introducción a la Optimización; y Modelos y Simulación o Modelos Matemáticos; e,
+
+Inferencia Estadística
+	
+
+Prerrequisito
+
+2025988
+	
+
+Taller de Simulación de Procesos de Manufactura y Sistemas de Servicios
+	
+
+3
+	
+
+SI
+	
+
+Modelos Estocásticos para Procesos de Manufactura y Sistemas de Servicios
+	
+
+Prerrequisito
+
+Subagrupación: Optimización
+
+CÓDIGO DE LA ASIGNATURA
+	
+
+NOMBRE DE LA ASIGNATURA
+	
+
+CRÉDITOS
+	
+
+OBLIGATORIA
+	
+
+ASIGNATURA PRERREQUISITO / CORREQUISITO
+
+NOMBRE DE LA ASIGNATURA
+	
+
+REQUISITOS
+
+2025971
+	
+
+Optimización
+	
+
+3
+	
+
+NO
+	
+
+Cálculo en Varias Variables o Cálculo Vectorial; y, Álgebra Lineal o Álgebra Lineal Básica
+	
+
+Prerrequisito
+
+2015173
+	
+
+Introducción a la Optimización
+	
+
+4
+	
+
+NO
+	
+
+Cálculo en Varias Variables o Cálculo Vectorial; y, Álgebra Lineal o Álgebra Lineal Básica
+	
+
+Prerrequisito
+
+Créditos exigidos en la subagrupación Optimización: Tres (3).
+
+Subagrupación: Modelos y Sistemas
+
+CÓDIGO DE LA ASIGNATURA
+	
+
+NOMBRE DE LA ASIGNATURA
+	
+
+CRÉDITOS
+	
+
+OBLIGATORIA
+	
+
+ASIGNATURA PRERREQUISITO / CORREQUISITO
+
+NOMBRE DE LA ASIGNATURA
+	
+
+REQUISITOS
+
+2025970
+	
+
+Modelos y Simulación
+	
+
+3
+	
+
+NO
+	
+
+Ecuaciones Diferenciales o Cálculo de Ecuaciones Diferenciales Ordinarias; y,
+
+Cálculo en Varias Variables o Cálculo Vectorial; y,
+
+Probabilidad; y,
+
+Taller de Herramientas y Problemas en Ingeniería Industrial
+	
+
+Prerrequisito
+
+2015177
+	
+
+Modelos Matemáticos
+	
+
+4
+	
+
+NO
+	
+
+Ecuaciones Diferenciales o Cálculo de Ecuaciones Diferenciales Ordinarias; y,
+
+Cálculo en Varias Variables o Cálculo Vectorial; y,
+
+Probabilidad; y,
+
+Taller de Herramientas y Problemas en Ingeniería Industrial
+	
+
+Prerrequisito
+
+Créditos exigidos en la subagrupación Modelos y Sistemas: Tres (3).
+
+Créditos exigidos en la agrupación Sistemas, Modelos, Optimización y Simulación: Doce (12)
+
+AGRUPACIÓN: Producción y Operaciones
+
+CÓDIGO DE LA ASIGNATURA
+	
+
+NOMBRE DE LA ASIGNATURA
+	
+
+CRÉDITOS
+	
+
+OBLIGATORIA
+	
+
+ASIGNATURA PRERREQUISITO / CORREQUISITO
+
+NOMBRE DE LA ASIGNATURA
+	
+
+REQUISITOS
+
+2016609
+	
+
+Seguridad Industrial
+	
+
+3
+	
+
+SI
+	
+
+Fundamentos de Electricidad y Magnetismo
+	
+
+Prerrequisito
+
+2016613
+	
+
+Taller de Ergonomía e Ingeniería de Métodos
+	
+
+4
+	
+
+SI
+	
+
+Optimización o Introducción a la Optimización; y, Taller de Procesos Metalmecánicos
+	
+
+Prerrequisito
+
+2016614
+	
+
+Taller de Ingeniería de la Producción
+	
+
+4
+	
+
+SI
+	
+
+Taller de Ergonomía e Ingeniería de Métodos Modelos Estocásticos para Procesos de Manufactura y Sistemas de Servicios
+	
+
+Prerrequisito
+
+2016612
+	
+
+Taller de Diseño de Plantas
+	
+
+4
+	
+
+SI
+	
+
+Seguridad Industrial; y,
+
+Sistemas de Información; y,
+
+Taller de Ingeniería de la Producción
+	
+
+Prerrequisito
+
+2016605
+	
+
+Logística
+	
+
+3
+	
+
+SI
+	
+
+Taller de Simulación de Procesos de Manufactura y Sistemas de Servicios
+	
+
+Prerrequisito
+
+Subagrupación: Control y Gestión de Calidad
+
+CÓDIGO DE LA ASIGNATURA
+	
+
+NOMBRE DE LA ASIGNATURA
+	
+
+CRÉDITOS
+	
+
+OBLIGATORIA
+	
+
+ASIGNATURA PRERREQUISITO / CORREQUISITO
+
+NOMBRE DE LA ASIGNATURA
+	
+
+REQUISITOS
+
+2016589
+	
+
+Control y Gestión de Calidad
+	
+
+3
+	
+
+NO
+	
+
+Inferencia Estadística; y
+
+Creación y Gestión de Empresas o
+
+Fundamentos de Administración
+	
+
+Prerrequisito
+
+2016316
+	
+
+Control de Calidad y Sistemas de Gestión
+	
+
+3
+	
+
+NO
+	
+
+Inferencia Estadística; y
+
+Creación y Gestión de Empresas o
+
+Fundamentos de Administración
+	
+
+Prerrequisito
+
+2016317
+	
+
+Control Estadístico de Calidad
+	
+
+3
+	
+
+NO
+	
+
+Inferencia Estadística; y
+
+Creación y Gestión de Empresas o
+
+Fundamentos de Administración
+	
+
+Prerrequisito
+
+Créditos exigidos en la subagrupación Control y Gestión de Calidad: Tres (3).
+
+Créditos exigidos en la agrupación Producción y Operaciones: Veintiuno (21)
+
+AGRUPACIÓN: Sociohumanística
+
+CÓDIGO DE LA ASIGNATURA
+	
+
+NOMBRE DE LA ASIGNATURA
+	
+
+CRÉDITOS
+	
+
+OBLIGATORIA
+	
+
+ASIGNATURA PRERREQUISITO / CORREQUISITO
+
+NOMBRE DE LA ASIGNATURA
+	
+
+REQUISITOS
+
+2015811
+	
+
+Sociología Especial: Industrial y del Trabajo
+	
+
+3
+	
+
+SI
+	
+
+-
+	
+
+Prerrequisito
+
+2016615
+	
+
+Taller de Invención y Creatividad
+	
+
+3
+	
+
+SI
+	
+
+Introducción a la Ingeniería Industrial
+	
+
+Prerrequisito
+
+2016616
+	
+
+Taller Metodología de la Investigación
+	
+
+3
+	
+
+SI
+	
+
+Taller de Invención y Creatividad; e, Inferencia Estadística
+	
+
+Prerrequisito
+
+Créditos exigidos en la agrupación Sociohumanística: Nueve (9)
+
+AGRUPACIÓN: Sistemas de Información
+
+CÓDIGO DE LA ASIGNATURA
+	
+
+NOMBRE DE LA ASIGNATURA
+	
+
+CRÉDITOS
+	
+
+OBLIGATORIA
+	
+
+ASIGNATURA PRERREQUISITO / CORREQUISITO
+
+NOMBRE DE LA ASIGNATURA
+	
+
+REQUISITOS
+
+2025982
+	
+
+Sistemas de Información
+	
+
+3
+	
+
+NO
+	
+
+Gerencia y Gestión de Proyectos o Diseño, Gestión y Evaluación de Proyectos
+	
+
+Prerrequisito
+
+2016053
+	
+
+Sistemas de Información Gerencial
+	
+
+4
+	
+
+NO
+	
+
+Gerencia y Gestión de Proyectos o Diseño, Gestión y Evaluación de Proyectos
+	
+
+Prerrequisito
+
+Créditos exigidos en la agrupación Sistemas de Información: Tres (3)
+
+AGRUPACIÓN: Contexto Profesional y Proyectos de Ingeniería
+
+CÓDIGO DE LA ASIGNATURA
+	
+
+NOMBRE DE LA ASIGNATURA
+	
+
+CRÉDITOS
+	
+
+OBLIGATORIA
+	
+
+ASIGNATURA PRERREQUISITO / CORREQUISITO
+
+NOMBRE DE LA ASIGNATURA
+	
+
+REQUISITOS
+
+2026805
+	
+
+Introducción a la Ingeniería Industrial
+	
+
+3
+	
+
+SI
+	
+
+-
+	
+
+-
+
+2026488
+	
+
+Taller de Herramientas y Problemas en Ingeniería Industrial
+	
+
+3
+	
+
+SI
+	
+
+Cálculo Diferencial o Cálculo Diferencial en una Variable; e,
+
+Introducción a la Ingeniería industrial; y, Programación Orientada a Objetos
+	
+
+Prerrequisito
+
+Créditos exigidos en la agrupación Contexto Profesional y Proyectos de Ingeniería: Seis (6)
+
+AGRUPACIÓN: Trabajo de grado
+
+CÓDIGO DE LA ASIGNATURA
+	
+
+NOMBRE DE LA ASIGNATURA
+	
+
+CRÉDITOS
+	
+
+OBLIGATORIA
+	
+
+ASIGNATURA PRERREQUISITO / CORREQUISITO
+
+NOMBRE DE LA ASIGNATURA
+	
+
+REQUISITOS
+
+2025990
+	
+
+Trabajo de grado - Modalidad Trabajos Investigativos
+	
+
+6
+	
+
+NO
+	
+
+Haber aprobado 70 créditos del Componente de Formación Disciplinar o Profesional
+	
+
+Prerrequisito
+
+2025989
+	
+
+Trabajo de Grado - Modalidad Práctica de Extensión
+	
+
+6
+	
+
+NO
+	
+
+Haber aprobado 70 créditos del Componente de Formación Disciplinar o Profesional
+	
+
+Prerrequisito
+
+2015321
+	
+
+Trabajo de Grado - Asignaturas de Posgrado
+	
+
+6
+	
+
+NO
+	
+
+Haber aprobado 70 créditos del Componente de Formación Disciplinar o Profesional
+	
+
+Prerrequisito
+
+Créditos exigidos en la agrupación Trabajo de grado: Seis (6)
+
+C) COMPONENTE DE LIBRE ELECCIÓN
+
+AGRUPACIÓN: Profundización
+
+CÓDIGO DE LA ASIGNATURA
+	
+
+NOMBRE DE LA ASIGNATURA
+	
+
+CRÉDITOS
+	
+
+OBLIGATORIA
+	
+
+ASIGNATURA PRERREQUISITO / CORREQUISITO
+
+NOMBRE DE LA ASIGNATURA
+	
+
+REQUISITOS
+
+2024045
+	
+
+Taller de proyectos interdisciplinarios
+	
+
+3
+	
+
+NO
+	
+
+Haber aprobado 40 créditos del Componente de Formación Disciplinar o Profesional; y,
+
+Gerencia y gestión de proyectos
+	
+
+Prerrequisito
+
+2016762
+	
+
+Práctica estudiantil I
+	
+
+3
+	
+
+NO
+	
+
+Haber aprobado 45 créditos del Componente de Formación Disciplinar o Profesional
+	
+
+Prerrequisito
+
+2016763
+	
+
+Práctica estudiantil II
+	
+
+6
+	
+
+NO
+	
+
+Haber aprobado 45 créditos del Componente de Formación Disciplinar o Profesional
+	
+
+Prerrequisito
+
+2016764
+	
+
+Práctica estudiantil III
+	
+
+9
+	
+
+NO
+	
+
+Haber aprobado 45 créditos del Componente de Formación Disciplinar o Profesional
+	
+
+Prerrequisito
+
+1000070
+	
+
+Práctica Colombia I
+	
+
+3
+	
+
+NO
+	
+
+Haber aprobado 45 créditos del Componente de Formación Disciplinar o Profesional
+	
+
+Prerrequisito
+
+1000071
+	
+
+Práctica Colombia II
+	
+
+6
+	
+
+NO
+	
+
+Haber aprobado 45 créditos del Componente de Formación Disciplinar o Profesional
+	
+
+Prerrequisito
+
+1000072
+	
+
+Práctica Colombia III
+	
+
+9
+	
+
+NO
+	
+
+Haber aprobado 45 créditos del Componente de Formación Disciplinar o Profesional
+	
+
+Prerrequisito
+
+2016366
+	
+
+Estadística Descriptiva y Exploratoria
+	
+
+4
+	
+
+NO
+	
+
+-
+	
+
+-
+
+2016360
+	
+
+Análisis de Regresión
+	
+
+4
+	
+
+NO
+	
+
+Inferencia Estadística
+	
+
+Prerrequisito
+
+2016369
+	
+
+Muestreo Estadístico
+	
+
+4
+	
+
+NO
+	
+
+Inferencia Estadística
+	
+
+Prerrequisito
+
+2016368
+	
+
+Métodos No Paramétricos
+	
+
+4
+	
+
+NO
+	
+
+Inferencia Estadística
+	
+
+Prerrequisito
+
+2015970
+	
+
+Métodos Numéricos
+	
+
+3
+	
+
+NO
+	
+
+Ecuaciones Diferenciales o Cálculo de Ecuaciones Diferenciales Ordinarias
+	
+
+Prerrequisito
+
+1000011
+	
+
+Fundamentos de Ecología
+	
+
+3
+	
+
+NO
+	
+
+-
+	
+
+-
+
+1000024
+	
+
+Principios de Química
+	
+
+3
+	
+
+NO
+	
+
+-
+	
+
+-
+
+1000009
+	
+
+Biología General
+	
+
+3
+	
+
+NO
+	
+
+-
+	
+
+-
+
+1000010
+	
+
+Biología Molecular y Celular
+	
+
+3
+	
+
+NO
+	
+
+-
+	
+
+-
+
+1000040
+	
+
+Introducción a la Ciencia de
+
+Materiales
+	
+
+3
+	
+
+NO
+	
+
+Ecuaciones Diferenciales o Cálculo de Ecuaciones Diferenciales Ordinarias; y,
+
+Fundamentos de Electricidad y Magnetismo
+	
+
+Prerrequisito
+
+1000020
+	
+
+Fundamentos de Oscilaciones, Ondas y Óptica
+	
+
+4
+	
+
+NO
+	
+
+Fundamentos de Electricidad y Magnetismo
+	
+
+Prerrequisito
+
+1000021
+	
+
+Fundamentos Mecánica de Fluidos
+	
+
+4
+	
+
+NO
+	
+
+Fundamentos de Mecánica
+	
+
+Prerrequisito
+
+1000018
+	
+
+Fundamentos de Física Moderna
+	
+
+3
+	
+
+NO
+	
+
+Ecuaciones Diferenciales o Cálculo de Ecuaciones Diferenciales Ordinaria ; y,
+
+Fundamentos de Electricidad y Magnetismo
+	
+
+Prerrequisito
+
+2016642
+	
+
+Termodinámica
+	
+
+3
+	
+
+NO
+	
+
+Ecuaciones Diferenciales o Cálculo de Ecuaciones Diferenciales Ordinaria ; y,
+
+Fundamentos de Electricidad y Magnetismo
+	
+
+-
+
+2015270
+	
+
+Fundamentos de Economía
+	
+
+3
+	
+
+NO
+	
+
+-
+	
+
+-
+
+2016008
+	
+
+Fundamentos de Contabilidad Financiera
+	
+
+4
+	
+
+NO
+	
+
+-
+	
+
+-
+
+2016039
+	
+
+Fundamentos de Finanzas
+	
+
+4
+	
+
+NO
+	
+
+Fundamentos de Contabilidad Financiera
+	
+
+Prerrequisito
+
+2016023
+	
+
+Teoría moderna de la firma
+	
+
+4
+	
+
+NO
+	
+
+Creación y Gestión de Empresas o
+
+Fundamentos de Administración
+	
+
+Prerrequisito
+
+2016036
+	
+
+Estrategia
+	
+
+4
+	
+
+NO
+	
+
+Creación y Gestión de Empresas o
+
+Fundamentos de Administración
+	
+
+Prerrequisito
+
+2016046
+	
+
+Mercados I
+	
+
+4
+	
+
+NO
+	
+
+Creación y Gestión de Empresas o
+
+Fundamentos de Administración; e, Inferencia Estadística
+	
+
+Prerrequisito
+
+2016120
+	
+
+Estrategia de mercados
+	
+
+3
+	
+
+NO
+	
+
+Creación y Gestión de Empresas o
+
+Fundamentos de Administración
+	
+
+Prerrequisito
+
+2016126
+	
+
+Planeación Estratégica
+	
+
+3
+	
+
+NO
+	
+
+Creación y Gestión de Empresas o
+
+Fundamentos de Administración
+	
+
+Prerrequisito
+
+2016128
+	
+
+Teoría Contemporánea de la Organización
+	
+
+4
+	
+
+NO
+	
+
+Creación y Gestión de Empresas o
+
+Fundamentos de Administración
+	
+
+Prerrequisito
+
+2016204
+	
+
+Contabilidad de Gestión Avanzada
+	
+
+4
+	
+
+NO
+	
+
+Creación y Gestión de Empresas o
+
+Fundamentos de Administración
+	
+
+Prerrequisito
+
+2016593
+	
+
+Estrategia de Mercado
+	
+
+3
+	
+
+NO
+	
+
+Creación y Gestión de Empresas o
+
+Fundamentos de Administración
+	
+
+Prerrequisito
+
+2016595
+	
+
+Gerencia de Proyectos de Innovación
+	
+
+3
+	
+
+NO
+	
+
+Creación y Gestión de Empresas o
+
+Fundamentos de Administración
+	
+
+Prerrequisito
+
+2016597
+	
+
+Gerencia y Planeación Estratégica
+	
+
+3
+	
+
+NO
+	
+
+Creación y Gestión de Empresas o
+
+Fundamentos de Administración
+	
+
+Prerrequisito
+
+2016598
+	
+
+Gestión Ambiental Empresarial
+	
+
+3
+	
+
+NO
+	
+
+Creación y Gestión de Empresas o
+
+Fundamentos de Administración
+	
+
+Prerrequisito
+
+2016599
+	
+
+Gestión de la Ciencia, la Tecnología y la Innovación
+	
+
+3
+	
+
+NO
+	
+
+Creación y Gestión de Empresas o
+
+Fundamentos de Administración
+	
+
+Prerrequisito
+
+2016602
+	
+
+Investigación de Mercados
+	
+
+3
+	
+
+NO
+	
+
+Creación y Gestión de Empresas o
+
+Fundamentos de Administración; e, Inferencia Estadística
+	
+
+Prerrequisito
+
+2016623
+	
+
+Teoría de la Decisión
+	
+
+4
+	
+
+NO
+	
+
+Creación y Gestión de Empresas o
+
+Fundamentos de Administración
+	
+
+Prerrequisito
+
+2015803
+	
+
+Indicadores Sociales
+	
+
+3
+	
+
+NO
+	
+
+Inferencia Estadística
+	
+
+Prerrequisito
+
+Créditos exigidos en la agrupación Profundización: cero (0)
+
+ARTÍCULO 3. Un estudiante podrá cursar máximo 15 créditos en prácticas, estas son: Práctica Estudiantil I, II y III; y Práctica Colombia I, II y III, y utilizará créditos del componente de libre elección. Estas asignaturas se podrán cursar y aprobar una sola vez durante el plan de estudios. La realización de una práctica y su número de créditos deben ser recomendados por el Comité Asesor del Programa Curricular dependiendo del contenido académico y de la dedicación del estudiante según la propuesta de trabajo presentada por el estudiante y serán aprobados por el Consejo de Facultad.
+
+ARTÍCULO 4. Aprobar las siguientes equivalencias entre asignaturas del plan de estudios establecido en el Acuerdo 007 de 2013 del Consejo de Facultad, que hayan sido cursadas y aprobadas antes del primer periodo académico de 2015, y asignaturas de plan de estudios que se establece en el presente acuerdo:
+
+PLAN ESTABLECIDO EN EL PRESENTE ACUERDO
+	
+
+Tipo de Equivalencia
+	
+
+-
+	
+
+PLAN ACUERDO 007 DE 2013
+
+CÓDIGO
+	
+
+NOMBRE DE LA ASIGNATURA
+	
+
+CRÉDITOS
+	
+
+CÓDIGO
+	
+
+NOMBRE DE LA ASIGNATURA
+	
+
+CRÉDITOS
+
+2026805
+	
+
+Introducción a la ingeniería industrial
+	
+
+3
+	
+
+Una a una
+	
+
+2016601
+	
+
+Introducción a la ingeniería industrial
+	
+
+4
+
+2026551
+	
+
+Creación y Gestión de Empresas
+	
+
+3
+	
+
+Una a una
+	
+
+2016590
+	
+
+Creación de empresa
+	
+
+3
+
+2015178
+	
+
+Probabilidad
+	
+
+4
+	
+
+Una a varias
+	
+
+1000015
+	
+
+Probabilidad fundamental
+	
+
+3
+
+2025984
+	
+
+Complemento probabilidad fundamental
+	
+
+1
+
+2016379
+	
+
+Inferencia estadística
+	
+
+4
+	
+
+Una a varias
+	
+
+1000016
+	
+
+Inferencia estadística fundamental
+	
+
+3
+
+2025985
+	
+
+Complemento inferencia fundamental
+	
+
+1
+
+ARTÍCULO  5. El presente acuerdo rige a partir de la fecha de su publicación en el Sistema de Información Normativa, Jurisprudencial y de Conceptos - Régimen Legal de la Universidad Nacional de Colombia y deroga los Acuerdos 07 de 2013 y 22 de 2014 del Consejo de Facultad de Ingeniería y todas aquellas normas que le sean contrarias.
+
+PUBLÍQUESE, COMUNÍQUESE Y CÚMPLASE
+
+Dado en la ciudad de Bogotá, D.C., a los once (11) días del mes de diciembre de 2014
+
+JOSÉ ISMAEL PEÑA REYES
+
+Presidente
+
+LUIS FRANCISCO BOADA ESLAVA
+
+Secretario
+
+ 
+
